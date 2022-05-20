@@ -1,0 +1,8028 @@
+{
+ "countryFilters": [
+  {
+   "code": "GLOBAL",
+   "readableName": "Global"
+  },
+  {
+   "code": "AR",
+   "readableName": "Argentina"
+  },
+  {
+   "code": "AU",
+   "readableName": "Australia"
+  },
+  {
+   "code": "AT",
+   "readableName": "Austria"
+  },
+  {
+   "code": "BY",
+   "readableName": "Belarus"
+  },
+  {
+   "code": "BE",
+   "readableName": "Belgium"
+  },
+  {
+   "code": "BO",
+   "readableName": "Bolivia"
+  },
+  {
+   "code": "BR",
+   "readableName": "Brazil"
+  },
+  {
+   "code": "BG",
+   "readableName": "Bulgaria"
+  },
+  {
+   "code": "CA",
+   "readableName": "Canada"
+  },
+  {
+   "code": "CL",
+   "readableName": "Chile"
+  },
+  {
+   "code": "CO",
+   "readableName": "Colombia"
+  },
+  {
+   "code": "CR",
+   "readableName": "Costa Rica"
+  },
+  {
+   "code": "CY",
+   "readableName": "Cyprus"
+  },
+  {
+   "code": "CZ",
+   "readableName": "Czech Republic"
+  },
+  {
+   "code": "DK",
+   "readableName": "Denmark"
+  },
+  {
+   "code": "DO",
+   "readableName": "Dominican Republic"
+  },
+  {
+   "code": "EC",
+   "readableName": "Ecuador"
+  },
+  {
+   "code": "EG",
+   "readableName": "Egypt"
+  },
+  {
+   "code": "SV",
+   "readableName": "El Salvador"
+  },
+  {
+   "code": "EE",
+   "readableName": "Estonia"
+  },
+  {
+   "code": "FI",
+   "readableName": "Finland"
+  },
+  {
+   "code": "FR",
+   "readableName": "France"
+  },
+  {
+   "code": "DE",
+   "readableName": "Germany"
+  },
+  {
+   "code": "GR",
+   "readableName": "Greece"
+  },
+  {
+   "code": "GT",
+   "readableName": "Guatemala"
+  },
+  {
+   "code": "HN",
+   "readableName": "Honduras"
+  },
+  {
+   "code": "HK",
+   "readableName": "Hong Kong"
+  },
+  {
+   "code": "HU",
+   "readableName": "Hungary"
+  },
+  {
+   "code": "IS",
+   "readableName": "Iceland"
+  },
+  {
+   "code": "IN",
+   "readableName": "India"
+  },
+  {
+   "code": "ID",
+   "readableName": "Indonesia"
+  },
+  {
+   "code": "IE",
+   "readableName": "Ireland"
+  },
+  {
+   "code": "IL",
+   "readableName": "Israel"
+  },
+  {
+   "code": "IT",
+   "readableName": "Italy"
+  },
+  {
+   "code": "JP",
+   "readableName": "Japan"
+  },
+  {
+   "code": "KZ",
+   "readableName": "Kazakhstan"
+  },
+  {
+   "code": "LV",
+   "readableName": "Latvia"
+  },
+  {
+   "code": "LT",
+   "readableName": "Lithuania"
+  },
+  {
+   "code": "LU",
+   "readableName": "Luxembourg"
+  },
+  {
+   "code": "MY",
+   "readableName": "Malaysia"
+  },
+  {
+   "code": "MX",
+   "readableName": "Mexico"
+  },
+  {
+   "code": "MA",
+   "readableName": "Morocco"
+  },
+  {
+   "code": "NL",
+   "readableName": "Netherlands"
+  },
+  {
+   "code": "NZ",
+   "readableName": "New Zealand"
+  },
+  {
+   "code": "NI",
+   "readableName": "Nicaragua"
+  },
+  {
+   "code": "NG",
+   "readableName": "Nigeria"
+  },
+  {
+   "code": "NO",
+   "readableName": "Norway"
+  },
+  {
+   "code": "PK",
+   "readableName": "Pakistan"
+  },
+  {
+   "code": "PA",
+   "readableName": "Panama"
+  },
+  {
+   "code": "PY",
+   "readableName": "Paraguay"
+  },
+  {
+   "code": "PE",
+   "readableName": "Peru"
+  },
+  {
+   "code": "PH",
+   "readableName": "Philippines"
+  },
+  {
+   "code": "PL",
+   "readableName": "Poland"
+  },
+  {
+   "code": "PT",
+   "readableName": "Portugal"
+  },
+  {
+   "code": "RO",
+   "readableName": "Romania"
+  },
+  {
+   "code": "SA",
+   "readableName": "Saudi Arabia"
+  },
+  {
+   "code": "SG",
+   "readableName": "Singapore"
+  },
+  {
+   "code": "SK",
+   "readableName": "Slovakia"
+  },
+  {
+   "code": "ZA",
+   "readableName": "South Africa"
+  },
+  {
+   "code": "KR",
+   "readableName": "South Korea"
+  },
+  {
+   "code": "ES",
+   "readableName": "Spain"
+  },
+  {
+   "code": "SE",
+   "readableName": "Sweden"
+  },
+  {
+   "code": "CH",
+   "readableName": "Switzerland"
+  },
+  {
+   "code": "TW",
+   "readableName": "Taiwan"
+  },
+  {
+   "code": "TH",
+   "readableName": "Thailand"
+  },
+  {
+   "code": "TR",
+   "readableName": "Turkey"
+  },
+  {
+   "code": "AE",
+   "readableName": "UAE"
+  },
+  {
+   "code": "UA",
+   "readableName": "Ukraine"
+  },
+  {
+   "code": "GB",
+   "readableName": "United Kingdom"
+  },
+  {
+   "code": "UY",
+   "readableName": "Uruguay"
+  },
+  {
+   "code": "US",
+   "readableName": "USA"
+  },
+  {
+   "code": "VE",
+   "readableName": "Venezuela"
+  },
+  {
+   "code": "VN",
+   "readableName": "Vietnam"
+  }
+ ],
+ "displayChart": {
+  "date": "2021-12-16",
+  "chartMetadata": {
+   "uri": "spotify:chart:7zE64clO2DB2y74QymNWRn",
+   "alias": "REGIONAL_GLOBAL_WEEKLY",
+   "entityType": "TRACK",
+   "readableTitle": "Weekly Top Songs: Global",
+   "backgroundColor": "#773795",
+   "textColor": "#FFFFFF",
+   "dimensions": {
+    "latestDate": "2022-05-12",
+    "earliestDate": "2016-12-29",
+    "country": "GLOBAL",
+    "chartType": "TOP_TRACK",
+    "recurrence": "WEEKLY"
+   }
+  },
+  "description": "Your weekly update of the most played tracks right now."
+ },
+ "entries": [
+  {
+   "chartEntryData": {
+    "currentRank": 1,
+    "previousRank": 3,
+    "peakRank": 1,
+    "appearancesOnChart": 5,
+    "consecutiveAppearancesOnChart": 5,
+    "rankingMetric": {
+     "value": "34440025",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 97,
+    "entryDate": "2021-11-18"
+   },
+   "trackMetadata": {
+    "trackName": "abcdefu",
+    "trackUri": "spotify:track:4fouWK6XVHhzl78KzQ1UjL",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022842f743ebd32235bceb43d3",
+    "artists": [
+     {
+      "name": "GAYLE",
+      "spotifyUri": "spotify:artist:2VSHKHBTiXWplO8lxcnUC9"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic/Arthouse Records"
+     }
+    ],
+    "releaseDate": "2021-08-13"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 2,
+    "previousRank": 2,
+    "peakRank": 1,
+    "appearancesOnChart": 23,
+    "consecutiveAppearancesOnChart": 23,
+    "rankingMetric": {
+     "value": "32652993",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NO_CHANGE",
+    "peakDate": "2021-08-05",
+    "entryRank": 3,
+    "entryDate": "2021-07-15"
+   },
+   "trackMetadata": {
+    "trackName": "STAY (with Justin Bieber)",
+    "trackUri": "spotify:track:5PjdY0CKGZdEuoNab3yDmX",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028e6551a2944764bc8e33a960",
+    "artists": [
+     {
+      "name": "The Kid LAROI",
+      "spotifyUri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+     },
+     {
+      "name": "Justin Bieber",
+      "spotifyUri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-07-23"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 3,
+    "previousRank": 4,
+    "peakRank": 1,
+    "appearancesOnChart": 39,
+    "consecutiveAppearancesOnChart": 6,
+    "rankingMetric": {
+     "value": "32175593",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 11,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "All I Want for Christmas Is You",
+    "trackUri": "spotify:track:0bYg9bo50gSsH3LtXe2SQn",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024246e3158421f5abb75abc4f",
+    "artists": [
+     {
+      "name": "Mariah Carey",
+      "spotifyUri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "1994-10-28"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 4,
+    "previousRank": 1,
+    "peakRank": 1,
+    "appearancesOnChart": 9,
+    "consecutiveAppearancesOnChart": 9,
+    "rankingMetric": {
+     "value": "31902027",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-21",
+    "entryRank": 1,
+    "entryDate": "2021-10-21"
+   },
+   "trackMetadata": {
+    "trackName": "Easy On Me",
+    "trackUri": "spotify:track:46IZ0fSY2mpAiktS3KOqds",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c6b577e4c4a6d326354a89f7",
+    "artists": [
+     {
+      "name": "Adele",
+      "spotifyUri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-11-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 5,
+    "previousRank": 5,
+    "peakRank": 2,
+    "appearancesOnChart": 21,
+    "consecutiveAppearancesOnChart": 21,
+    "rankingMetric": {
+     "value": "28001110",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NO_CHANGE",
+    "peakDate": "2021-08-19",
+    "entryRank": 5,
+    "entryDate": "2021-07-29"
+   },
+   "trackMetadata": {
+    "trackName": "INDUSTRY BABY (feat. Jack Harlow)",
+    "trackUri": "spotify:track:5Z9KJZvQzH6PFmb8SNkxuk",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02be82673b5f79d9658ec0a9fd",
+    "artists": [
+     {
+      "name": "Lil Nas X",
+      "spotifyUri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+     },
+     {
+      "name": "Jack Harlow",
+      "spotifyUri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-09-17"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 6,
+    "previousRank": 8,
+    "peakRank": 2,
+    "appearancesOnChart": 33,
+    "consecutiveAppearancesOnChart": 5,
+    "rankingMetric": {
+     "value": "27077848",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 21,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Last Christmas",
+    "trackUri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
+    "artists": [
+     {
+      "name": "Wham!",
+      "spotifyUri": "spotify:artist:5lpH0xAS4fVfLkACg9DAuM"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Epic"
+     }
+    ],
+    "releaseDate": "1984-11-29"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 7,
+    "previousRank": 6,
+    "peakRank": 3,
+    "appearancesOnChart": 51,
+    "consecutiveAppearancesOnChart": 51,
+    "rankingMetric": {
+     "value": "26030908",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-07",
+    "entryRank": 168,
+    "entryDate": "2020-12-31"
+   },
+   "trackMetadata": {
+    "trackName": "Heat Waves",
+    "trackUri": "spotify:track:02MWAaffLxlfxAUY7c5dvx",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029e495fb707973f3390850eea",
+    "artists": [
+     {
+      "name": "Glass Animals",
+      "spotifyUri": "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Polydor Records"
+     }
+    ],
+    "releaseDate": "2020-08-06"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 8,
+    "previousRank": 9,
+    "peakRank": 8,
+    "appearancesOnChart": 7,
+    "consecutiveAppearancesOnChart": 7,
+    "rankingMetric": {
+     "value": "25739303",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-02",
+    "entryRank": 61,
+    "entryDate": "2021-11-04"
+   },
+   "trackMetadata": {
+    "trackName": "Enemy (with JID) - from the series Arcane League of Legends",
+    "trackUri": "spotify:track:1r9xUipOqoNwggBpENDsvJ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02aa597e50829169e6994eb403",
+    "artists": [
+     {
+      "name": "Imagine Dragons",
+      "spotifyUri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+     },
+     {
+      "name": "JID",
+      "spotifyUri": "spotify:artist:6U3ybJ9UHNKEdsH7ktGBZ7"
+     },
+     {
+      "name": "Arcane",
+      "spotifyUri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+     },
+     {
+      "name": "League of Legends",
+      "spotifyUri": "spotify:artist:47mIJdHORyRerp4os813jD"
+     }
+    ],
+    "labels": [
+     {
+      "name": "KIDinaKORNER/Interscope Records"
+     }
+    ],
+    "releaseDate": "2021-10-28"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 9,
+    "previousRank": 7,
+    "peakRank": 5,
+    "appearancesOnChart": 18,
+    "consecutiveAppearancesOnChart": 18,
+    "rankingMetric": {
+     "value": "25452055",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-18",
+    "entryRank": 76,
+    "entryDate": "2021-08-19"
+   },
+   "trackMetadata": {
+    "trackName": "Cold Heart - PNAU Remix",
+    "trackUri": "spotify:track:7rglLriMNBPAyuJOMGwi39",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02eb842acacb3238b2bf3b8471",
+    "artists": [
+     {
+      "name": "Elton John",
+      "spotifyUri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+     },
+     {
+      "name": "Dua Lipa",
+      "spotifyUri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+     },
+     {
+      "name": "PNAU",
+      "spotifyUri": "spotify:artist:6n28c9qs9hNGriNa72b26u"
+     }
+    ],
+    "labels": [
+     {
+      "name": "EMI"
+     }
+    ],
+    "releaseDate": "2021-10-22"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 10,
+    "previousRank": 15,
+    "peakRank": 5,
+    "appearancesOnChart": 28,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "22095540",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 66,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Rockin' Around The Christmas Tree",
+    "trackUri": "spotify:track:2EjXfH91m7f8HiJN1yQg97",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027845f74d6db14b400fa61cd3",
+    "artists": [
+     {
+      "name": "Brenda Lee",
+      "spotifyUri": "spotify:artist:4cPHsZM98sKzmV26wlwD2W"
+     }
+    ],
+    "labels": [
+     {
+      "name": "MCA Nashville"
+     }
+    ],
+    "releaseDate": "1964-10-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 11,
+    "previousRank": 13,
+    "peakRank": 7,
+    "appearancesOnChart": 27,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "21479503",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 51,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Jingle Bell Rock",
+    "trackUri": "spotify:track:7vQbuQcyTflfCIOu3Uzzya",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fd56f3c7a294f5cfe51c7b17",
+    "artists": [
+     {
+      "name": "Bobby Helms",
+      "spotifyUri": "spotify:artist:38EmEgXkgK51MT2tPY0EoC"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Geffen"
+     }
+    ],
+    "releaseDate": "1957-12-02"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 12,
+    "previousRank": 12,
+    "peakRank": 6,
+    "appearancesOnChart": 28,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "21259884",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NO_CHANGE",
+    "peakDate": "2020-12-24",
+    "entryRank": 41,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "It's Beginning to Look a Lot like Christmas",
+    "trackUri": "spotify:track:0lLdorYw7lVrJydTINhWdI",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022ead7786631d8dd3b59be4f0",
+    "artists": [
+     {
+      "name": "Michael Bublé",
+      "spotifyUri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Reprise"
+     }
+    ],
+    "releaseDate": "2011-10-14"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 13,
+    "previousRank": 10,
+    "peakRank": 4,
+    "appearancesOnChart": 14,
+    "consecutiveAppearancesOnChart": 14,
+    "rankingMetric": {
+     "value": "20745300",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-04",
+    "entryRank": 11,
+    "entryDate": "2021-09-16"
+   },
+   "trackMetadata": {
+    "trackName": "Shivers",
+    "trackUri": "spotify:track:50nfwKoDiSYg8zOCREWAm5",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ef24c3fdbf856340d55cfeb2",
+    "artists": [
+     {
+      "name": "Ed Sheeran",
+      "spotifyUri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records UK"
+     }
+    ],
+    "releaseDate": "2021-10-29"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 14,
+    "previousRank": 20,
+    "peakRank": 3,
+    "appearancesOnChart": 29,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "19655526",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 84,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Santa Tell Me",
+    "trackUri": "spotify:track:0lizgQ7Qw35od7CYaoMBZb",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fb704b7e832b40f08c14629c",
+    "artists": [
+     {
+      "name": "Ariana Grande",
+      "spotifyUri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Universal Records"
+     }
+    ],
+    "releaseDate": "2014-11-24"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 15,
+    "previousRank": 11,
+    "peakRank": 4,
+    "appearancesOnChart": 23,
+    "consecutiveAppearancesOnChart": 23,
+    "rankingMetric": {
+     "value": "19361258",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-16",
+    "entryRank": 193,
+    "entryDate": "2021-07-15"
+   },
+   "trackMetadata": {
+    "trackName": "Pepas",
+    "trackUri": "spotify:track:2B4GHvToeLTOBB4QLzW3Ni",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f1bd89fe6542ac73b8555f73",
+    "artists": [
+     {
+      "name": "Farruko",
+      "spotifyUri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sony Music Latin"
+     }
+    ],
+    "releaseDate": "2021-10-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 16,
+    "previousRank": 14,
+    "peakRank": 3,
+    "appearancesOnChart": 25,
+    "consecutiveAppearancesOnChart": 25,
+    "rankingMetric": {
+     "value": "18589071",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-07-08",
+    "entryRank": 7,
+    "entryDate": "2021-07-01"
+   },
+   "trackMetadata": {
+    "trackName": "Bad Habits",
+    "trackUri": "spotify:track:3rmo8F54jFF8OgYsqTxm5d",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ef24c3fdbf856340d55cfeb2",
+    "artists": [
+     {
+      "name": "Ed Sheeran",
+      "spotifyUri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records UK"
+     }
+    ],
+    "releaseDate": "2021-10-29"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 17,
+    "previousRank": 21,
+    "peakRank": 15,
+    "appearancesOnChart": 7,
+    "consecutiveAppearancesOnChart": 7,
+    "rankingMetric": {
+     "value": "18466988",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-02",
+    "entryRank": 120,
+    "entryDate": "2021-11-04"
+   },
+   "trackMetadata": {
+    "trackName": "Do It To It",
+    "trackUri": "spotify:track:20on25jryn53hWghthWWW3",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0284d413b195aac8a69cc6e5c6",
+    "artists": [
+     {
+      "name": "ACRAZE",
+      "spotifyUri": "spotify:artist:4pnp4w9g30yLfVIAFnZMRd"
+     },
+     {
+      "name": "Cherish",
+      "spotifyUri": "spotify:artist:1c70yCa8sRgIiQxl3HOEFo"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Thrive Music, LLC"
+     }
+    ],
+    "releaseDate": "2021-08-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 18,
+    "previousRank": 23,
+    "peakRank": 8,
+    "appearancesOnChart": 27,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "18034942",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 45,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "It's the Most Wonderful Time of the Year",
+    "trackUri": "spotify:track:1IcR6RlgvDczfvoWJSSY2A",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0298073965947f92f1641b8356",
+    "artists": [
+     {
+      "name": "Andy Williams",
+      "spotifyUri": "spotify:artist:4sj6D0zlMOl25nprDJBiU9"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia/Legacy"
+     }
+    ],
+    "releaseDate": "1963-11-24"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 19,
+    "previousRank": 18,
+    "peakRank": 6,
+    "appearancesOnChart": 23,
+    "consecutiveAppearancesOnChart": 22,
+    "rankingMetric": {
+     "value": "17724328",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-16",
+    "entryRank": 107,
+    "entryDate": "2021-07-01"
+   },
+   "trackMetadata": {
+    "trackName": "Woman",
+    "trackUri": "spotify:track:6Uj1ctrBOjOas8xZXGqKk4",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
+    "artists": [
+     {
+      "name": "Doja Cat",
+      "spotifyUri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Kemosabe Records/RCA Records"
+     }
+    ],
+    "releaseDate": "2021-06-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 20,
+    "previousRank": 22,
+    "peakRank": 3,
+    "appearancesOnChart": 12,
+    "consecutiveAppearancesOnChart": 12,
+    "rankingMetric": {
+     "value": "17147077",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-09-30",
+    "entryRank": 3,
+    "entryDate": "2021-09-30"
+   },
+   "trackMetadata": {
+    "trackName": "My Universe",
+    "trackUri": "spotify:track:46HNZY1i7O6jwTA7Slo2PI",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ec10f247b100da1ce0d80b6d",
+    "artists": [
+     {
+      "name": "Coldplay",
+      "spotifyUri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+     },
+     {
+      "name": "BTS",
+      "spotifyUri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Parlophone UK"
+     }
+    ],
+    "releaseDate": "2021-10-15"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 21,
+    "previousRank": 17,
+    "peakRank": 1,
+    "appearancesOnChart": 31,
+    "consecutiveAppearancesOnChart": 31,
+    "rankingMetric": {
+     "value": "16881663",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-05-20",
+    "entryRank": 1,
+    "entryDate": "2021-05-20"
+   },
+   "trackMetadata": {
+    "trackName": "good 4 u",
+    "trackUri": "spotify:track:4ZtFanR9U6ndgddUvNcjcG",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+    "artists": [
+     {
+      "name": "Olivia Rodrigo",
+      "spotifyUri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Olivia Rodrigo PS"
+     }
+    ],
+    "releaseDate": "2021-05-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 22,
+    "previousRank": 16,
+    "peakRank": 1,
+    "appearancesOnChart": 5,
+    "consecutiveAppearancesOnChart": 5,
+    "rankingMetric": {
+     "value": "16343482",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-18",
+    "entryRank": 1,
+    "entryDate": "2021-11-18"
+   },
+   "trackMetadata": {
+    "trackName": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+    "trackUri": "spotify:track:5enxwA8aAbwZbf5qCHORXi",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02318443aab3531a0558e79a4d",
+    "artists": [
+     {
+      "name": "Taylor Swift",
+      "spotifyUri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Taylor Swift"
+     }
+    ],
+    "releaseDate": "2021-11-12"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 23,
+    "previousRank": 40,
+    "peakRank": 12,
+    "appearancesOnChart": 18,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "16209878",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-31",
+    "entryRank": 76,
+    "entryDate": "2020-12-17"
+   },
+   "trackMetadata": {
+    "trackName": "Snowman",
+    "trackUri": "spotify:track:7uoFMmxln0GPXQ0AcCBXRq",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d752d86d6660f40a032d46c7",
+    "artists": [
+     {
+      "name": "Sia",
+      "spotifyUri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Monkey Puzzle/Atlantic"
+     }
+    ],
+    "releaseDate": "2018-11-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 24,
+    "previousRank": 35,
+    "peakRank": 14,
+    "appearancesOnChart": 22,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "15099567",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 68,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Feliz Navidad",
+    "trackUri": "spotify:track:3qCeq0rWK67SoBDgFd2sId",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0257db4e3ca6a227ed612ad0b8",
+    "artists": [
+     {
+      "name": "José Feliciano",
+      "spotifyUri": "spotify:artist:7K78lVZ8XzkjfRSI7570FF"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RCA Records Label"
+     }
+    ]
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 25,
+    "previousRank": 19,
+    "peakRank": 19,
+    "appearancesOnChart": 2,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "14932298",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-12-09",
+    "entryRank": 19,
+    "entryDate": "2021-12-09"
+   },
+   "trackMetadata": {
+    "trackName": "I Hate U",
+    "trackUri": "spotify:track:5dXWFMwD7I7zXsInONVl0H",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022cb5c3a1013e6be7084da957",
+    "artists": [
+     {
+      "name": "SZA",
+      "spotifyUri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Top Dawg Entertainment/RCA Records"
+     }
+    ],
+    "releaseDate": "2021-12-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 26,
+    "previousRank": 38,
+    "peakRank": 9,
+    "appearancesOnChart": 19,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "14710827",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 116,
+    "entryDate": "2017-12-28"
+   },
+   "trackMetadata": {
+    "trackName": "Underneath the Tree",
+    "trackUri": "spotify:track:3nAp4IvdMPPWEH9uuXFFV5",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029fd0d700bdf33c9ebc42f429",
+    "artists": [
+     {
+      "name": "Kelly Clarkson",
+      "spotifyUri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RCA Records Label"
+     }
+    ],
+    "releaseDate": "2013-10-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 27,
+    "previousRank": 24,
+    "peakRank": 3,
+    "appearancesOnChart": 36,
+    "consecutiveAppearancesOnChart": 36,
+    "rankingMetric": {
+     "value": "14507847",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-04-29",
+    "entryRank": 6,
+    "entryDate": "2021-04-15"
+   },
+   "trackMetadata": {
+    "trackName": "Kiss Me More (feat. SZA)",
+    "trackUri": "spotify:track:3DarAbFujv6eYNliUTyqtz",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
+    "artists": [
+     {
+      "name": "Doja Cat",
+      "spotifyUri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+     },
+     {
+      "name": "SZA",
+      "spotifyUri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Kemosabe Records/RCA Records"
+     }
+    ],
+    "releaseDate": "2021-06-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 28,
+    "previousRank": -1,
+    "peakRank": 28,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "14460806",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 28,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Girl Of My Dreams (with SUGA of BTS)",
+    "trackUri": "spotify:track:7DF8lvLdV3htIbuTWpc7lR",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     },
+     {
+      "name": "SUGA",
+      "spotifyUri": "spotify:artist:0ebNdVaOfp6N0oZ1guIxM8"
+     },
+     {
+      "name": "BTS",
+      "spotifyUri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 29,
+    "previousRank": 43,
+    "peakRank": 15,
+    "appearancesOnChart": 26,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "14426746",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 90,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Mistletoe",
+    "trackUri": "spotify:track:7xapw9Oy21WpfEcib2ErSA",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020315efc555d5a157b0392652",
+    "artists": [
+     {
+      "name": "Justin Bieber",
+      "spotifyUri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RBMG/Def Jam"
+     }
+    ],
+    "releaseDate": "2011-01-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 30,
+    "previousRank": 25,
+    "peakRank": 1,
+    "appearancesOnChart": 38,
+    "consecutiveAppearancesOnChart": 38,
+    "rankingMetric": {
+     "value": "13971520",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-04-15",
+    "entryRank": 2,
+    "entryDate": "2021-04-01"
+   },
+   "trackMetadata": {
+    "trackName": "MONTERO (Call Me By Your Name)",
+    "trackUri": "spotify:track:1SC5rEoYDGUK4NfG82494W",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02be82673b5f79d9658ec0a9fd",
+    "artists": [
+     {
+      "name": "Lil Nas X",
+      "spotifyUri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-09-17"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 31,
+    "previousRank": 26,
+    "peakRank": 6,
+    "appearancesOnChart": 27,
+    "consecutiveAppearancesOnChart": 27,
+    "rankingMetric": {
+     "value": "13929971",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-08-26",
+    "entryRank": 38,
+    "entryDate": "2021-06-17"
+   },
+   "trackMetadata": {
+    "trackName": "Need to Know",
+    "trackUri": "spotify:track:3Vi5XqYrmQgOYBajMWSvCi",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
+    "artists": [
+     {
+      "name": "Doja Cat",
+      "spotifyUri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Kemosabe Records/RCA Records"
+     }
+    ],
+    "releaseDate": "2021-06-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 32,
+    "previousRank": 49,
+    "peakRank": 16,
+    "appearancesOnChart": 19,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "13465849",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 137,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Sleigh Ride",
+    "trackUri": "spotify:track:7fUYUcWy853HS8YJn0b3Sr",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021f0d5a8ff630fd5944c3936d",
+    "artists": [
+     {
+      "name": "The Ronettes",
+      "spotifyUri": "spotify:artist:7CyeXFnOrfC1N6z4naIpgo"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Legacy Recordings"
+     }
+    ],
+    "releaseDate": "2020-12-04"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 33,
+    "previousRank": 41,
+    "peakRank": 33,
+    "appearancesOnChart": 2,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "13399075",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 41,
+    "entryDate": "2021-12-09"
+   },
+   "trackMetadata": {
+    "trackName": "Wandered To LA (with Justin Bieber)",
+    "trackUri": "spotify:track:1cA4wEmLkKlttS6N89LbJh",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     },
+     {
+      "name": "Justin Bieber",
+      "spotifyUri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 34,
+    "previousRank": 28,
+    "peakRank": 1,
+    "appearancesOnChart": 28,
+    "consecutiveAppearancesOnChart": 28,
+    "rankingMetric": {
+     "value": "13335115",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-07-08",
+    "entryRank": 68,
+    "entryDate": "2021-06-10"
+   },
+   "trackMetadata": {
+    "trackName": "Beggin'",
+    "trackUri": "spotify:track:3Wrjm47oTz2sjIgck11l5e",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fa0ab3a28b5c52d8a5f97045",
+    "artists": [
+     {
+      "name": "Måneskin",
+      "spotifyUri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RCA Records Label"
+     }
+    ],
+    "releaseDate": "2017-12-08"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 35,
+    "previousRank": 53,
+    "peakRank": 35,
+    "appearancesOnChart": 7,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "13288021",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 153,
+    "entryDate": "2021-10-21"
+   },
+   "trackMetadata": {
+    "trackName": "Infinity",
+    "trackUri": "spotify:track:1SOClUWhOi8vHZYMz3GluK",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a9897f65d1ead1be10a51e3f",
+    "artists": [
+     {
+      "name": "Jaymes Young",
+      "spotifyUri": "spotify:artist:6QrQ7OrISRYIfS5mtacaw2"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records"
+     }
+    ],
+    "releaseDate": "2017-06-23"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 36,
+    "previousRank": 29,
+    "peakRank": 5,
+    "appearancesOnChart": 14,
+    "consecutiveAppearancesOnChart": 14,
+    "rankingMetric": {
+     "value": "13277040",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-28",
+    "entryRank": 55,
+    "entryDate": "2021-09-16"
+   },
+   "trackMetadata": {
+    "trackName": "MONEY",
+    "trackUri": "spotify:track:7hU3IHwjX150XLoTVmjD0q",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02330f11fb125bb80b760f9e19",
+    "artists": [
+     {
+      "name": "LISA",
+      "spotifyUri": "spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT"
+     }
+    ],
+    "labels": [
+     {
+      "name": "YG Entertainment/Interscope Records"
+     }
+    ],
+    "releaseDate": "2021-09-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 37,
+    "previousRank": 30,
+    "peakRank": 9,
+    "appearancesOnChart": 14,
+    "consecutiveAppearancesOnChart": 14,
+    "rankingMetric": {
+     "value": "13272219",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-07",
+    "entryRank": 173,
+    "entryDate": "2021-09-16"
+   },
+   "trackMetadata": {
+    "trackName": "love nwantiti (ah ah ah)",
+    "trackUri": "spotify:track:2Xr1dTzJee307rmrkt8c0g",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02405fdad252857e01dbced96a",
+    "artists": [
+     {
+      "name": "CKay",
+      "spotifyUri": "spotify:artist:048LktY5zMnakWq7PTtFrz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Chocolate City Music"
+     }
+    ],
+    "releaseDate": "2019-08-30"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 38,
+    "previousRank": 33,
+    "peakRank": 3,
+    "appearancesOnChart": 28,
+    "consecutiveAppearancesOnChart": 28,
+    "rankingMetric": {
+     "value": "13160281",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-06-10",
+    "entryRank": 3,
+    "entryDate": "2021-06-10"
+   },
+   "trackMetadata": {
+    "trackName": "Yonaguni",
+    "trackUri": "spotify:track:2JPLbjOn0wPCngEot2STUS",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0264afd6879102d03460bd3ad9",
+    "artists": [
+     {
+      "name": "Bad Bunny",
+      "spotifyUri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Rimas Entertainment LLC"
+     }
+    ],
+    "releaseDate": "2021-06-04"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 39,
+    "previousRank": 31,
+    "peakRank": 23,
+    "appearancesOnChart": 9,
+    "consecutiveAppearancesOnChart": 9,
+    "rankingMetric": {
+     "value": "13065564",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-12-02",
+    "entryRank": 163,
+    "entryDate": "2021-10-21"
+   },
+   "trackMetadata": {
+    "trackName": "Toxic",
+    "trackUri": "spotify:track:2gQPv5jvVPqU2a9HhMNO1v",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0282a18aa0d3374049c6b78f6a",
+    "artists": [
+     {
+      "name": "BoyWithUke",
+      "spotifyUri": "spotify:artist:1Cd373x8qzC7SNUg5IToqp"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2021-10-29"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 40,
+    "previousRank": 32,
+    "peakRank": 6,
+    "appearancesOnChart": 20,
+    "consecutiveAppearancesOnChart": 20,
+    "rankingMetric": {
+     "value": "12935150",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-08-05",
+    "entryRank": 6,
+    "entryDate": "2021-08-05"
+   },
+   "trackMetadata": {
+    "trackName": "Happier Than Ever",
+    "trackUri": "spotify:track:4RVwu0g32PAqgUiJoXsdF8",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e",
+    "artists": [
+     {
+      "name": "Billie Eilish",
+      "spotifyUri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Darkroom/Interscope Records"
+     }
+    ],
+    "releaseDate": "2021-07-30"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 41,
+    "previousRank": 55,
+    "peakRank": 21,
+    "appearancesOnChart": 21,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "12718715",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 141,
+    "entryDate": "2017-12-07"
+   },
+   "trackMetadata": {
+    "trackName": "Driving Home for Christmas - 2019 Remaster",
+    "trackUri": "spotify:track:27qAMKrDdKEs8HDXcvR24R",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02efd8734b76a66f4dd36b88f7",
+    "artists": [
+     {
+      "name": "Chris Rea",
+      "spotifyUri": "spotify:artist:5KEG7G8LDYlHgFDqZyEEs2"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Rhino"
+     }
+    ],
+    "releaseDate": "1987-08-02"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 42,
+    "previousRank": 34,
+    "peakRank": 1,
+    "appearancesOnChart": 107,
+    "consecutiveAppearancesOnChart": 107,
+    "rankingMetric": {
+     "value": "12619011",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-02-27",
+    "entryRank": 7,
+    "entryDate": "2019-12-05"
+   },
+   "trackMetadata": {
+    "trackName": "Blinding Lights",
+    "trackUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+    "artists": [
+     {
+      "name": "The Weeknd",
+      "spotifyUri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2020-03-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 43,
+    "previousRank": 52,
+    "peakRank": 19,
+    "appearancesOnChart": 24,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "12583894",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 59,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+    "trackUri": "spotify:track:4kKdvXD0ez7jp1296JmAts",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02df1066335619efa75889bcfc",
+    "artists": [
+     {
+      "name": "Frank Sinatra",
+      "spotifyUri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+     },
+     {
+      "name": "B. Swanson Quartet",
+      "spotifyUri": "spotify:artist:0JXiS2FrAg3wQYJHcmZdrc"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia/Legacy"
+     }
+    ],
+    "releaseDate": "1994-11-08"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 44,
+    "previousRank": 47,
+    "peakRank": 12,
+    "appearancesOnChart": 11,
+    "consecutiveAppearancesOnChart": 11,
+    "rankingMetric": {
+     "value": "12365733",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-10-14",
+    "entryRank": 89,
+    "entryDate": "2021-10-07"
+   },
+   "trackMetadata": {
+    "trackName": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+    "trackUri": "spotify:track:4gzsuuZypVbxs0Af1LSZyB",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02abe9c2b5f03653d6b87696e6",
+    "artists": [
+     {
+      "name": "Tainy",
+      "spotifyUri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+     },
+     {
+      "name": "Bad Bunny",
+      "spotifyUri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+     },
+     {
+      "name": "Julieta Venegas",
+      "spotifyUri": "spotify:artist:2QWIScpFDNxmS6ZEMIUvgm"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Neon16"
+     }
+    ],
+    "releaseDate": "2021-10-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 45,
+    "previousRank": 27,
+    "peakRank": 3,
+    "appearancesOnChart": 4,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "12311310",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-25",
+    "entryRank": 3,
+    "entryDate": "2021-11-25"
+   },
+   "trackMetadata": {
+    "trackName": "Oh My God",
+    "trackUri": "spotify:track:3Kkjo3cT83cw09VJyrLNwX",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c6b577e4c4a6d326354a89f7",
+    "artists": [
+     {
+      "name": "Adele",
+      "spotifyUri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-11-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 46,
+    "previousRank": 44,
+    "peakRank": 7,
+    "appearancesOnChart": 30,
+    "consecutiveAppearancesOnChart": 30,
+    "rankingMetric": {
+     "value": "12183684",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-05-27",
+    "entryRank": 7,
+    "entryDate": "2021-05-27"
+   },
+   "trackMetadata": {
+    "trackName": "traitor",
+    "trackUri": "spotify:track:5CZ40GBx1sQ9agT82CLQCT",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+    "artists": [
+     {
+      "name": "Olivia Rodrigo",
+      "spotifyUri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Olivia Rodrigo PS"
+     }
+    ],
+    "releaseDate": "2021-05-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 47,
+    "previousRank": 51,
+    "peakRank": 26,
+    "appearancesOnChart": 22,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "12173170",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 60,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "White Christmas",
+    "trackUri": "spotify:track:4so0Wek9Ig1p6CRCHuINwW",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02481bb0db1e8bd0c7104368a4",
+    "artists": [
+     {
+      "name": "Bing Crosby",
+      "spotifyUri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
+     },
+     {
+      "name": "Ken Darby Singers",
+      "spotifyUri": "spotify:artist:69UfPJgUmFFAVT740qGVZi"
+     },
+     {
+      "name": "John Scott Trotter & His Orchestra",
+      "spotifyUri": "spotify:artist:735L650pvygCZZlPMyHqsN"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Geffen"
+     }
+    ],
+    "releaseDate": "1942-01-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 48,
+    "previousRank": 62,
+    "peakRank": 11,
+    "appearancesOnChart": 17,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "12154920",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 138,
+    "entryDate": "2018-12-06"
+   },
+   "trackMetadata": {
+    "trackName": "Let It Snow! Let It Snow! Let It Snow!",
+    "trackUri": "spotify:track:2uFaJJtFpPDc5Pa95XzTvg",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e359bd02a639a4d01b8241ae",
+    "artists": [
+     {
+      "name": "Dean Martin",
+      "spotifyUri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Capitol Records"
+     }
+    ],
+    "releaseDate": "1959-01-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 49,
+    "previousRank": 60,
+    "peakRank": 21,
+    "appearancesOnChart": 23,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "12116500",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 156,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Holly Jolly Christmas",
+    "trackUri": "spotify:track:6tjituizSxwSmBB5vtgHZE",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022ead7786631d8dd3b59be4f0",
+    "artists": [
+     {
+      "name": "Michael Bublé",
+      "spotifyUri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Reprise"
+     }
+    ],
+    "releaseDate": "2011-10-14"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 50,
+    "previousRank": 39,
+    "peakRank": 14,
+    "appearancesOnChart": 13,
+    "consecutiveAppearancesOnChart": 13,
+    "rankingMetric": {
+     "value": "12083234",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-21",
+    "entryRank": 60,
+    "entryDate": "2021-09-23"
+   },
+   "trackMetadata": {
+    "trackName": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
+    "trackUri": "spotify:track:4gvrJnKCKIPiacNsWVQwEU",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0239bb326b58346f99b8692745",
+    "artists": [
+     {
+      "name": "CKay",
+      "spotifyUri": "spotify:artist:048LktY5zMnakWq7PTtFrz"
+     },
+     {
+      "name": "Dj Yo!",
+      "spotifyUri": "spotify:artist:7iTLGcddv1bOPirdYJjKVy"
+     },
+     {
+      "name": "AX'EL",
+      "spotifyUri": "spotify:artist:5fUXK5m3BNwoRgTyKq8tnz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "WM South Africa"
+     }
+    ],
+    "releaseDate": "2021-09-09"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 51,
+    "previousRank": 46,
+    "peakRank": 31,
+    "appearancesOnChart": 13,
+    "consecutiveAppearancesOnChart": 10,
+    "rankingMetric": {
+     "value": "12074861",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-04",
+    "entryRank": 50,
+    "entryDate": "2021-03-25"
+   },
+   "trackMetadata": {
+    "trackName": "Ghost",
+    "trackUri": "spotify:track:6I3mqTwhRpn34SLVafSH7G",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+    "artists": [
+     {
+      "name": "Justin Bieber",
+      "spotifyUri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RBMG/Def Jam"
+     }
+    ],
+    "releaseDate": "2021-03-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 52,
+    "previousRank": 45,
+    "peakRank": 9,
+    "appearancesOnChart": 6,
+    "consecutiveAppearancesOnChart": 6,
+    "rankingMetric": {
+     "value": "12040044",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-11",
+    "entryRank": 9,
+    "entryDate": "2021-11-11"
+   },
+   "trackMetadata": {
+    "trackName": "One Right Now (with The Weeknd)",
+    "trackUri": "spotify:track:00Blm7zeNqgYLPtW6zg8cj",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024158fe41143182ec16ead070",
+    "artists": [
+     {
+      "name": "Post Malone",
+      "spotifyUri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+     },
+     {
+      "name": "The Weeknd",
+      "spotifyUri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2021-11-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 53,
+    "previousRank": 37,
+    "peakRank": 1,
+    "appearancesOnChart": 49,
+    "consecutiveAppearancesOnChart": 49,
+    "rankingMetric": {
+     "value": "12027541",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-01-14",
+    "entryRank": 1,
+    "entryDate": "2021-01-14"
+   },
+   "trackMetadata": {
+    "trackName": "drivers license",
+    "trackUri": "spotify:track:5wANPM4fQCJwkGd4rN57mH",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+    "artists": [
+     {
+      "name": "Olivia Rodrigo",
+      "spotifyUri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Olivia Rodrigo PS"
+     }
+    ],
+    "releaseDate": "2021-05-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 54,
+    "previousRank": 42,
+    "peakRank": 3,
+    "appearancesOnChart": 13,
+    "consecutiveAppearancesOnChart": 13,
+    "rankingMetric": {
+     "value": "12015721",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-23",
+    "entryRank": 3,
+    "entryDate": "2021-09-23"
+   },
+   "trackMetadata": {
+    "trackName": "THATS WHAT I WANT",
+    "trackUri": "spotify:track:0e8nrvls4Qqv5Rfa2UhqmO",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02be82673b5f79d9658ec0a9fd",
+    "artists": [
+     {
+      "name": "Lil Nas X",
+      "spotifyUri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-09-17"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 55,
+    "previousRank": 36,
+    "peakRank": 8,
+    "appearancesOnChart": 6,
+    "consecutiveAppearancesOnChart": 6,
+    "rankingMetric": {
+     "value": "11942346",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-18",
+    "entryRank": 21,
+    "entryDate": "2021-11-11"
+   },
+   "trackMetadata": {
+    "trackName": "Smokin Out The Window",
+    "trackUri": "spotify:track:7sMBvZCSUl99bJLXZaLa0b",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+    "artists": [
+     {
+      "name": "Bruno Mars",
+      "spotifyUri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+     },
+     {
+      "name": "Anderson .Paak",
+      "spotifyUri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+     },
+     {
+      "name": "Silk Sonic",
+      "spotifyUri": "spotify:artist:6PvvGcCY2XtUcSRld1Wilr"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Aftermath Entertainment/Atlantic"
+     }
+    ],
+    "releaseDate": "2021-11-11"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 56,
+    "previousRank": -1,
+    "peakRank": 56,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "11890265",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 56,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Burn",
+    "trackUri": "spotify:track:0QwKxajohg1rAMMmv1AWe1",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 57,
+    "previousRank": 64,
+    "peakRank": 13,
+    "appearancesOnChart": 22,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "11888517",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 87,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Happy Xmas (War Is Over) - Remastered 2010",
+    "trackUri": "spotify:track:27RYrbL6S02LNVhDWVl38b",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0261a389971d7842d02b0623ab",
+    "artists": [
+     {
+      "name": "John Lennon",
+      "spotifyUri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
+     },
+     {
+      "name": "Yoko Ono",
+      "spotifyUri": "spotify:artist:2s4tjL6W3qrblOe0raIzwJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "EMI Catalogue"
+     }
+    ],
+    "releaseDate": "2010-10-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 58,
+    "previousRank": 63,
+    "peakRank": 15,
+    "appearancesOnChart": 23,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "11834414",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 136,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Wonderful Christmastime - Edited Version / Remastered 2011",
+    "trackUri": "spotify:track:1SV1fxF65n9NhRHp3KlBuu",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e023cef016d13d82873d45af84a",
+    "artists": [
+     {
+      "name": "Paul McCartney",
+      "spotifyUri": "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Paul McCartney Catalog"
+     }
+    ],
+    "releaseDate": "1980-05-16"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 59,
+    "previousRank": 66,
+    "peakRank": 59,
+    "appearancesOnChart": 2,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "11618492",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 66,
+    "entryDate": "2021-12-09"
+   },
+   "trackMetadata": {
+    "trackName": "Merry Christmas",
+    "trackUri": "spotify:track:0aoUM0zcu0kCX7Cv7O939I",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02b629026e4cf6254a90dfc414",
+    "artists": [
+     {
+      "name": "Ed Sheeran",
+      "spotifyUri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+     },
+     {
+      "name": "Elton John",
+      "spotifyUri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records UK"
+     }
+    ],
+    "releaseDate": "2021-12-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 60,
+    "previousRank": 48,
+    "peakRank": 4,
+    "appearancesOnChart": 63,
+    "consecutiveAppearancesOnChart": 63,
+    "rankingMetric": {
+     "value": "11535033",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-05-13",
+    "entryRank": 141,
+    "entryDate": "2020-10-08"
+   },
+   "trackMetadata": {
+    "trackName": "Levitating (feat. DaBaby)",
+    "trackUri": "spotify:track:5nujrmhLynf4yMoMtj8AQF",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d4daf28d55fe4197ede848be",
+    "artists": [
+     {
+      "name": "Dua Lipa",
+      "spotifyUri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+     },
+     {
+      "name": "DaBaby",
+      "spotifyUri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Warner Records"
+     }
+    ],
+    "releaseDate": "2020-03-27"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 61,
+    "previousRank": 54,
+    "peakRank": 28,
+    "appearancesOnChart": 15,
+    "consecutiveAppearancesOnChart": 15,
+    "rankingMetric": {
+     "value": "11400621",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-04",
+    "entryRank": 150,
+    "entryDate": "2021-09-09"
+   },
+   "trackMetadata": {
+    "trackName": "Where Are You Now",
+    "trackUri": "spotify:track:3uUuGVFu1V7jTQL60S1r8z",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028d7a7f1855b04104ba59c18b",
+    "artists": [
+     {
+      "name": "Lost Frequencies",
+      "spotifyUri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+     },
+     {
+      "name": "Calum Scott",
+      "spotifyUri": "spotify:artist:6ydoSd3N2mwgwBHtF6K7eX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Epic Amsterdam"
+     }
+    ],
+    "releaseDate": "2021-07-30"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 62,
+    "previousRank": 56,
+    "peakRank": 43,
+    "appearancesOnChart": 10,
+    "consecutiveAppearancesOnChart": 10,
+    "rankingMetric": {
+     "value": "11068210",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-11",
+    "entryRank": 193,
+    "entryDate": "2021-10-14"
+   },
+   "trackMetadata": {
+    "trackName": "I Love You So",
+    "trackUri": "spotify:track:4SqWKzw0CbA05TGszDgMlc",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029214ff0109a0e062f8a6cf0f",
+    "artists": [
+     {
+      "name": "The Walters",
+      "spotifyUri": "spotify:artist:027TpXKGwdXP7iwbjUSpV8"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Warner Records"
+     }
+    ],
+    "releaseDate": "2014-11-28"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 63,
+    "previousRank": 50,
+    "peakRank": 2,
+    "appearancesOnChart": 30,
+    "consecutiveAppearancesOnChart": 30,
+    "rankingMetric": {
+     "value": "11044067",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-06-03",
+    "entryRank": 28,
+    "entryDate": "2021-05-27"
+   },
+   "trackMetadata": {
+    "trackName": "Todo De Ti",
+    "trackUri": "spotify:track:5RwV8BvLfX5injfqYodke9",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d9525f27b0a9e25b1fa21230",
+    "artists": [
+     {
+      "name": "Rauw Alejandro",
+      "spotifyUri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sony Music Latin/Duars Entertainment"
+     }
+    ],
+    "releaseDate": "2021-12-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 64,
+    "previousRank": 58,
+    "peakRank": 48,
+    "appearancesOnChart": 15,
+    "consecutiveAppearancesOnChart": 15,
+    "rankingMetric": {
+     "value": "11043174",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-12-02",
+    "entryRank": 161,
+    "entryDate": "2021-09-09"
+   },
+   "trackMetadata": {
+    "trackName": "Mon Amour - Remix",
+    "trackUri": "spotify:track:5TMLavqGRKNxgzMBrVpC9R",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02545c930fa9fada545b01f71d",
+    "artists": [
+     {
+      "name": "zzoilo",
+      "spotifyUri": "spotify:artist:7c53ZFyajVMTo08HmvoB6b"
+     },
+     {
+      "name": "Aitana",
+      "spotifyUri": "spotify:artist:7eLcDZDYHXZCebtQmVFL25"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Universal Music Spain S.L."
+     }
+    ],
+    "releaseDate": "2021-08-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 65,
+    "previousRank": 79,
+    "peakRank": 2,
+    "appearancesOnChart": 30,
+    "consecutiveAppearancesOnChart": 30,
+    "rankingMetric": {
+     "value": "11022575",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-05-27",
+    "entryRank": 2,
+    "entryDate": "2021-05-27"
+   },
+   "trackMetadata": {
+    "trackName": "Butter",
+    "trackUri": "spotify:track:1mWdTewIgB3gtBM3TOSFhB",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02240447f2da1433d8f4303596",
+    "artists": [
+     {
+      "name": "BTS",
+      "spotifyUri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "BIGHIT MUSIC"
+     }
+    ],
+    "releaseDate": "2021-06-04"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 66,
+    "previousRank": 190,
+    "peakRank": 18,
+    "appearancesOnChart": 5,
+    "consecutiveAppearancesOnChart": 5,
+    "rankingMetric": {
+     "value": "10994084",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-11-18",
+    "entryRank": 18,
+    "entryDate": "2021-11-18"
+   },
+   "trackMetadata": {
+    "trackName": "Already Dead",
+    "trackUri": "spotify:track:2quVkyLSVr5wX2QIhnexUt",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 67,
+    "previousRank": 57,
+    "peakRank": 35,
+    "appearancesOnChart": 68,
+    "consecutiveAppearancesOnChart": 68,
+    "rankingMetric": {
+     "value": "10891369",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-02-04",
+    "entryRank": 198,
+    "entryDate": "2020-09-03"
+   },
+   "trackMetadata": {
+    "trackName": "Sweater Weather",
+    "trackUri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921",
+    "artists": [
+     {
+      "name": "The Neighbourhood",
+      "spotifyUri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2013-04-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 68,
+    "previousRank": 72,
+    "peakRank": 38,
+    "appearancesOnChart": 21,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "10797368",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 82,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Merry Christmas Everyone",
+    "trackUri": "spotify:track:2TE4xW3ImvpltVU0cPcKUn",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d962f3b4235f8c6429a829fb",
+    "artists": [
+     {
+      "name": "Shakin' Stevens",
+      "spotifyUri": "spotify:artist:0wi4yTYlGtEnbGo4ltZTib"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sony Music CG"
+     }
+    ],
+    "releaseDate": "1991-11-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 69,
+    "previousRank": 67,
+    "peakRank": 12,
+    "appearancesOnChart": 24,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "10695475",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2018-12-27",
+    "entryRank": 70,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Do They Know It's Christmas? - 1984 Version",
+    "trackUri": "spotify:track:0247StOpd3AkeBQzANX4Zf",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022f77772e5c981e44fc347e22",
+    "artists": [
+     {
+      "name": "Band Aid",
+      "spotifyUri": "spotify:artist:35S20clEkkSNUo23ViaslZ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "EMI"
+     }
+    ],
+    "releaseDate": "2004-01-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 70,
+    "previousRank": 65,
+    "peakRank": 7,
+    "appearancesOnChart": 8,
+    "consecutiveAppearancesOnChart": 8,
+    "rankingMetric": {
+     "value": "10104291",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-28",
+    "entryRank": 7,
+    "entryDate": "2021-10-28"
+   },
+   "trackMetadata": {
+    "trackName": "Moth To A Flame (with The Weeknd)",
+    "trackUri": "spotify:track:2gpWyfu7eZ01zzncHpxOtA",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02bd6f8ac82dc5fe1028c14f7d",
+    "artists": [
+     {
+      "name": "Swedish House Mafia",
+      "spotifyUri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs"
+     },
+     {
+      "name": "The Weeknd",
+      "spotifyUri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2022-04-15"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 71,
+    "previousRank": 71,
+    "peakRank": 10,
+    "appearancesOnChart": 20,
+    "consecutiveAppearancesOnChart": 20,
+    "rankingMetric": {
+     "value": "9950512",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NO_CHANGE",
+    "peakDate": "2021-08-12",
+    "entryRank": 41,
+    "entryDate": "2021-08-05"
+   },
+   "trackMetadata": {
+    "trackName": "Volví",
+    "trackUri": "spotify:track:2vmfvSoZBFAt9hhRoEByLi",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0212bcec4f18ee130369ce170c",
+    "artists": [
+     {
+      "name": "Aventura",
+      "spotifyUri": "spotify:artist:1qto4hHid1P71emI6Fd8xi"
+     },
+     {
+      "name": "Bad Bunny",
+      "spotifyUri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Rimas Entertainment LLC"
+     }
+    ],
+    "releaseDate": "2021-08-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 72,
+    "previousRank": 59,
+    "peakRank": 1,
+    "appearancesOnChart": 39,
+    "consecutiveAppearancesOnChart": 39,
+    "rankingMetric": {
+     "value": "9778484",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-03-25",
+    "entryRank": 1,
+    "entryDate": "2021-03-25"
+   },
+   "trackMetadata": {
+    "trackName": "Peaches (feat. Daniel Caesar & Giveon)",
+    "trackUri": "spotify:track:4iJyoBOLtHqaGxP12qzhQI",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+    "artists": [
+     {
+      "name": "Justin Bieber",
+      "spotifyUri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+     },
+     {
+      "name": "Daniel Caesar",
+      "spotifyUri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+     },
+     {
+      "name": "Giveon",
+      "spotifyUri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RBMG/Def Jam"
+     }
+    ],
+    "releaseDate": "2021-03-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 73,
+    "previousRank": 92,
+    "peakRank": 37,
+    "appearancesOnChart": 20,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "9747073",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 140,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "A Holly Jolly Christmas - Single Version",
+    "trackUri": "spotify:track:77khP2fIVhSW23NwxrRluh",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02efe2a536761d4f8e8401ae62",
+    "artists": [
+     {
+      "name": "Burl Ives",
+      "spotifyUri": "spotify:artist:0MHgLfmQdutffmvWe5XBTN"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Geffen"
+     }
+    ],
+    "releaseDate": "1965-01-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 74,
+    "previousRank": 70,
+    "peakRank": 5,
+    "appearancesOnChart": 34,
+    "consecutiveAppearancesOnChart": 34,
+    "rankingMetric": {
+     "value": "9715861",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-04-29",
+    "entryRank": 5,
+    "entryDate": "2021-04-29"
+   },
+   "trackMetadata": {
+    "trackName": "Save Your Tears (with Ariana Grande) (Remix)",
+    "trackUri": "spotify:track:37BZB0z9T8Xu7U3e65qxFy",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c6af5ffa661a365b77df6ef6",
+    "artists": [
+     {
+      "name": "The Weeknd",
+      "spotifyUri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     },
+     {
+      "name": "Ariana Grande",
+      "spotifyUri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2021-04-23"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 75,
+    "previousRank": 69,
+    "peakRank": 24,
+    "appearancesOnChart": 15,
+    "consecutiveAppearancesOnChart": 15,
+    "rankingMetric": {
+     "value": "9575038",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-28",
+    "entryRank": 106,
+    "entryDate": "2021-09-09"
+   },
+   "trackMetadata": {
+    "trackName": "Meet Me At Our Spot",
+    "trackUri": "spotify:track:07MDkzWARZaLEdKxo6yArG",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02024ea7e883a713a3ad552a71",
+    "artists": [
+     {
+      "name": "THE ANXIETY",
+      "spotifyUri": "spotify:artist:64H8UqGLbJFHwKtGxiV8OP"
+     },
+     {
+      "name": "WILLOW",
+      "spotifyUri": "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+     },
+     {
+      "name": "Tyler Cole",
+      "spotifyUri": "spotify:artist:1xoxekeb8jUVHKJB7m6bfg"
+     }
+    ],
+    "labels": [
+     {
+      "name": "MSFTSMusic / Roc Nation Records, LLC"
+     }
+    ],
+    "releaseDate": "2020-03-13"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 76,
+    "previousRank": 68,
+    "peakRank": 1,
+    "appearancesOnChart": 59,
+    "consecutiveAppearancesOnChart": 59,
+    "rankingMetric": {
+     "value": "9570721",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-11-12",
+    "entryRank": 2,
+    "entryDate": "2020-11-05"
+   },
+   "trackMetadata": {
+    "trackName": "DÁKITI",
+    "trackUri": "spotify:track:4MzXwWMhyBbmu6hOcLVD49",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02005ee342f4eef2cc6e8436ab",
+    "artists": [
+     {
+      "name": "Bad Bunny",
+      "spotifyUri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+     },
+     {
+      "name": "Jhay Cortez",
+      "spotifyUri": "spotify:artist:0EFisYRi20PTADoJrifHrz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Rimas Entertainment LLC"
+     }
+    ],
+    "releaseDate": "2020-11-27"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 77,
+    "previousRank": 61,
+    "peakRank": 23,
+    "appearancesOnChart": 7,
+    "consecutiveAppearancesOnChart": 7,
+    "rankingMetric": {
+     "value": "9557132",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-18",
+    "entryRank": 159,
+    "entryDate": "2021-11-04"
+   },
+   "trackMetadata": {
+    "trackName": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+    "trackUri": "spotify:track:09gysnJpfQ3ublBmJDfcEC",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e859698c8fe21d42a13ec252",
+    "artists": [
+     {
+      "name": "Amaarae",
+      "spotifyUri": "spotify:artist:21UPYSRWFKwtqvSAnFnSvS"
+     },
+     {
+      "name": "Kali Uchis",
+      "spotifyUri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+     },
+     {
+      "name": "Moliy",
+      "spotifyUri": "spotify:artist:2hVWBpjLW4Q7fboYz2pVYK"
+     }
+    ],
+    "labels": [
+     {
+      "name": "0207 Def Jam"
+     }
+    ],
+    "releaseDate": "2021-09-16"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 78,
+    "previousRank": -1,
+    "peakRank": 78,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "9422363",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 78,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Feline (with Polo G & Trippie Redd)",
+    "trackUri": "spotify:track:5R4Yrc2j4jw1itr4hKcN26",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     },
+     {
+      "name": "Polo G",
+      "spotifyUri": "spotify:artist:6AgTAQt8XS6jRWi4sX7w49"
+     },
+     {
+      "name": "Trippie Redd",
+      "spotifyUri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 79,
+    "previousRank": 86,
+    "peakRank": 30,
+    "appearancesOnChart": 21,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "9325126",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 99,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "The Christmas Song (Merry Christmas To You)",
+    "trackUri": "spotify:track:4PS1e8f2LvuTFgUs1Cn3ON",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cb474d056615c2c9b49bb4e6",
+    "artists": [
+     {
+      "name": "Nat King Cole",
+      "spotifyUri": "spotify:artist:7v4imS0moSyGdXyLgVTIV7"
+     }
+    ],
+    "labels": [
+     {
+      "name": "CAPITOL CATALOG MKT (C92)"
+     }
+    ]
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 80,
+    "previousRank": 80,
+    "peakRank": 40,
+    "appearancesOnChart": 14,
+    "consecutiveAppearancesOnChart": 14,
+    "rankingMetric": {
+     "value": "9104442",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NO_CHANGE",
+    "peakDate": "2021-11-04",
+    "entryRank": 107,
+    "entryDate": "2021-09-16"
+   },
+   "trackMetadata": {
+    "trackName": "Nostálgico",
+    "trackUri": "spotify:track:2BEcap3xJtmiPaHKyfQi4e",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02006cb8a368b174bbef547df1",
+    "artists": [
+     {
+      "name": "Rvssian",
+      "spotifyUri": "spotify:artist:1fctva4kpRbg2k3v7kwRuS"
+     },
+     {
+      "name": "Rauw Alejandro",
+      "spotifyUri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+     },
+     {
+      "name": "Chris Brown",
+      "spotifyUri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sony Music Latin"
+     }
+    ],
+    "releaseDate": "2021-09-08"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 81,
+    "previousRank": 73,
+    "peakRank": 15,
+    "appearancesOnChart": 15,
+    "consecutiveAppearancesOnChart": 15,
+    "rankingMetric": {
+     "value": "8933817",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-07",
+    "entryRank": 96,
+    "entryDate": "2021-09-09"
+   },
+   "trackMetadata": {
+    "trackName": "Life Goes On",
+    "trackUri": "spotify:track:0eu4C55hL6x29mmeAjytzC",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021c5a484110522f2b9c7038cc",
+    "artists": [
+     {
+      "name": "Oliver Tree",
+      "spotifyUri": "spotify:artist:6TLwD7HPWuiOzvXEa3oCNe"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records"
+     }
+    ],
+    "releaseDate": "2021-05-28"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 82,
+    "previousRank": -1,
+    "peakRank": 82,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "8928877",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 82,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Rockstar In His Prime",
+    "trackUri": "spotify:track:0v36cov6Z6aEV5ZgIlqZMk",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 83,
+    "previousRank": 88,
+    "peakRank": 83,
+    "appearancesOnChart": 3,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "8844656",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 129,
+    "entryDate": "2021-12-02"
+   },
+   "trackMetadata": {
+    "trackName": "I AM WOMAN",
+    "trackUri": "spotify:track:3nOz1U41SZZ0N3fuUWr9nb",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d4e10cba96b669683d0f8069",
+    "artists": [
+     {
+      "name": "Emmy Meli",
+      "spotifyUri": "spotify:artist:71szvmFWd7TUa7b6XmXj9k"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Disruptor Records/Arista Records"
+     }
+    ],
+    "releaseDate": "2021-11-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 84,
+    "previousRank": 78,
+    "peakRank": 3,
+    "appearancesOnChart": 37,
+    "consecutiveAppearancesOnChart": 37,
+    "rankingMetric": {
+     "value": "8797873",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-05-27",
+    "entryRank": 9,
+    "entryDate": "2021-04-08"
+   },
+   "trackMetadata": {
+    "trackName": "deja vu",
+    "trackUri": "spotify:track:6HU7h9RYOaPRFeh0R3UeAr",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+    "artists": [
+     {
+      "name": "Olivia Rodrigo",
+      "spotifyUri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Olivia Rodrigo PS"
+     }
+    ],
+    "releaseDate": "2021-05-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 85,
+    "previousRank": 98,
+    "peakRank": 54,
+    "appearancesOnChart": 18,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "8762041",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 139,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+    "trackUri": "spotify:track:2pXpURmn6zC5ZYDMms6fwa",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d5f598be32d3027b9578ecd6",
+    "artists": [
+     {
+      "name": "Perry Como",
+      "spotifyUri": "spotify:artist:5v8jlSmAQfrkTjAlpUfWtu"
+     },
+     {
+      "name": "The Fontane Sisters",
+      "spotifyUri": "spotify:artist:1Ml4OuStDoympbREURAM15"
+     },
+     {
+      "name": "Mitchell Ayres & His Orchestra",
+      "spotifyUri": "spotify:artist:0HS96tPggl2nwiz3gNWWI5"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RCA Records Label"
+     }
+    ],
+    "releaseDate": "1999-08-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 86,
+    "previousRank": 81,
+    "peakRank": 4,
+    "appearancesOnChart": 109,
+    "consecutiveAppearancesOnChart": 109,
+    "rankingMetric": {
+     "value": "8749323",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-07-23",
+    "entryRank": 21,
+    "entryDate": "2019-11-21"
+   },
+   "trackMetadata": {
+    "trackName": "Watermelon Sugar",
+    "trackUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+    "artists": [
+     {
+      "name": "Harry Styles",
+      "spotifyUri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2019-12-13"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 87,
+    "previousRank": 77,
+    "peakRank": 2,
+    "appearancesOnChart": 54,
+    "consecutiveAppearancesOnChart": 49,
+    "rankingMetric": {
+     "value": "8554520",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-02-11",
+    "entryRank": 29,
+    "entryDate": "2020-03-26"
+   },
+   "trackMetadata": {
+    "trackName": "Save Your Tears",
+    "trackUri": "spotify:track:5QO79kh1waicV47BqGRL3g",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+    "artists": [
+     {
+      "name": "The Weeknd",
+      "spotifyUri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2020-03-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 88,
+    "previousRank": 74,
+    "peakRank": 5,
+    "appearancesOnChart": 41,
+    "consecutiveAppearancesOnChart": 41,
+    "rankingMetric": {
+     "value": "8469725",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-03-11",
+    "entryRank": 5,
+    "entryDate": "2021-03-11"
+   },
+   "trackMetadata": {
+    "trackName": "Leave The Door Open",
+    "trackUri": "spotify:track:1LPSkqVhWVRUkKE03YUkpB",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+    "artists": [
+     {
+      "name": "Bruno Mars",
+      "spotifyUri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+     },
+     {
+      "name": "Anderson .Paak",
+      "spotifyUri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+     },
+     {
+      "name": "Silk Sonic",
+      "spotifyUri": "spotify:artist:6PvvGcCY2XtUcSRld1Wilr"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Aftermath Entertainment/Atlantic"
+     }
+    ],
+    "releaseDate": "2021-11-11"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 89,
+    "previousRank": 84,
+    "peakRank": 32,
+    "appearancesOnChart": 5,
+    "consecutiveAppearancesOnChart": 5,
+    "rankingMetric": {
+     "value": "8464158",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-18",
+    "entryRank": 32,
+    "entryDate": "2021-11-18"
+   },
+   "trackMetadata": {
+    "trackName": "LA FAMA (with The Weeknd)",
+    "trackUri": "spotify:track:6dmXZ9B5HdFAyzHeTneYBK",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02123631afea1a0c8ed83229c8",
+    "artists": [
+     {
+      "name": "ROSALÍA",
+      "spotifyUri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+     },
+     {
+      "name": "The Weeknd",
+      "spotifyUri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-11-11"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 90,
+    "previousRank": 96,
+    "peakRank": 16,
+    "appearancesOnChart": 14,
+    "consecutiveAppearancesOnChart": 11,
+    "rankingMetric": {
+     "value": "8224707",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-09-02",
+    "entryRank": 16,
+    "entryDate": "2021-09-02"
+   },
+   "trackMetadata": {
+    "trackName": "Praise God",
+    "trackUri": "spotify:track:0WSEq9Ko4kFPt8yo3ICd6T",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cad190f1a73c024e5a40dddd",
+    "artists": [
+     {
+      "name": "Kanye West",
+      "spotifyUri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Rock The World/IDJ/Kanye LP7"
+     }
+    ],
+    "releaseDate": "2021-08-29"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 91,
+    "previousRank": 93,
+    "peakRank": 38,
+    "appearancesOnChart": 18,
+    "consecutiveAppearancesOnChart": 18,
+    "rankingMetric": {
+     "value": "8214026",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-10-14",
+    "entryRank": 82,
+    "entryDate": "2021-08-19"
+   },
+   "trackMetadata": {
+    "trackName": "Don't Be Shy",
+    "trackUri": "spotify:track:0bI7K9Becu2dtXK1Q3cZNB",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c9bdd95ff143d01664054fc9",
+    "artists": [
+     {
+      "name": "Tiësto",
+      "spotifyUri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+     },
+     {
+      "name": "KAROL G",
+      "spotifyUri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records"
+     }
+    ],
+    "releaseDate": "2021-08-12"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 92,
+    "previousRank": 87,
+    "peakRank": 66,
+    "appearancesOnChart": 19,
+    "consecutiveAppearancesOnChart": 19,
+    "rankingMetric": {
+     "value": "8213608",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-16",
+    "entryRank": 165,
+    "entryDate": "2021-08-12"
+   },
+   "trackMetadata": {
+    "trackName": "Dark Red",
+    "trackUri": "spotify:track:37y7iDayfwm3WXn5BiAoRk",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02263886a4992c39704c601409",
+    "artists": [
+     {
+      "name": "Steve Lacy",
+      "spotifyUri": "spotify:artist:57vWImR43h4CaDao012Ofp"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Three Quarter"
+     }
+    ],
+    "releaseDate": "2017-02-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 93,
+    "previousRank": 83,
+    "peakRank": 79,
+    "appearancesOnChart": 4,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "8177009",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-12-02",
+    "entryRank": 159,
+    "entryDate": "2021-11-25"
+   },
+   "trackMetadata": {
+    "trackName": "DANCE CRIP",
+    "trackUri": "spotify:track:1kjs5eR4DMzyB0gm1Z8waV",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0269ef026d3963eebdcef570a1",
+    "artists": [
+     {
+      "name": "Trueno",
+      "spotifyUri": "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "©️ Ⓟ 2022 Sur Capital Records ™️ ( por Tierra Agencia SRL )"
+     }
+    ],
+    "releaseDate": "2021-11-17"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 94,
+    "previousRank": 89,
+    "peakRank": 15,
+    "appearancesOnChart": 25,
+    "consecutiveAppearancesOnChart": 25,
+    "rankingMetric": {
+     "value": "8171368",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-07-01",
+    "entryRank": 15,
+    "entryDate": "2021-07-01"
+   },
+   "trackMetadata": {
+    "trackName": "You Right",
+    "trackUri": "spotify:track:0k4d5YPDr1r7FX77VdqWez",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
+    "artists": [
+     {
+      "name": "Doja Cat",
+      "spotifyUri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+     },
+     {
+      "name": "The Weeknd",
+      "spotifyUri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Kemosabe Records/RCA Records"
+     }
+    ],
+    "releaseDate": "2021-06-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 95,
+    "previousRank": 97,
+    "peakRank": 10,
+    "appearancesOnChart": 15,
+    "consecutiveAppearancesOnChart": 15,
+    "rankingMetric": {
+     "value": "8122318",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-09-09",
+    "entryRank": 10,
+    "entryDate": "2021-09-09"
+   },
+   "trackMetadata": {
+    "trackName": "Knife Talk (with 21 Savage ft. Project Pat)",
+    "trackUri": "spotify:track:2BcMwX1MPV6ZHP4tUT9uq6",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+    "artists": [
+     {
+      "name": "Drake",
+      "spotifyUri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+     },
+     {
+      "name": "21 Savage",
+      "spotifyUri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+     },
+     {
+      "name": "Project Pat",
+      "spotifyUri": "spotify:artist:08Ld63UgKrJ0nZnCkzHtzc"
+     }
+    ],
+    "labels": [
+     {
+      "name": "OVO"
+     }
+    ],
+    "releaseDate": "2021-09-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 96,
+    "previousRank": 107,
+    "peakRank": 96,
+    "appearancesOnChart": 4,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "8079756",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 153,
+    "entryDate": "2021-11-25"
+   },
+   "trackMetadata": {
+    "trackName": "Tacones Rojos",
+    "trackUri": "spotify:track:0Be7sopyKMv8Y8npsUkax2",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f789b02ba6655a1f03d17b9f",
+    "artists": [
+     {
+      "name": "Sebastian Yatra",
+      "spotifyUri": "spotify:artist:07YUOmWljBTXwIseAUd9TW"
+     }
+    ],
+    "labels": [
+     {
+      "name": "UMLE - Latino"
+     }
+    ],
+    "releaseDate": "2021-10-22"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 97,
+    "previousRank": 110,
+    "peakRank": 97,
+    "appearancesOnChart": 4,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "8005118",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 182,
+    "entryDate": "2021-11-25"
+   },
+   "trackMetadata": {
+    "trackName": "Medallo",
+    "trackUri": "spotify:track:6lX6l7OuA3qrnIRfdsr0dw",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020a0ee97e8ba4373476538f19",
+    "artists": [
+     {
+      "name": "Blessd",
+      "spotifyUri": "spotify:artist:1TA5sGRlKUJXBN4ZyJuDIX"
+     },
+     {
+      "name": "Justin Quiles",
+      "spotifyUri": "spotify:artist:14zUHaJZo1mnYtn6IBRaRP"
+     },
+     {
+      "name": "Lenny Tavárez",
+      "spotifyUri": "spotify:artist:1pQWsZQehhS4wavwh7Fnxd"
+     }
+    ],
+    "labels": [
+     {
+      "name": "WEA Latina"
+     }
+    ],
+    "releaseDate": "2021-10-27"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 98,
+    "previousRank": 94,
+    "peakRank": 72,
+    "appearancesOnChart": 7,
+    "consecutiveAppearancesOnChart": 7,
+    "rankingMetric": {
+     "value": "7955985",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-11",
+    "entryRank": 96,
+    "entryDate": "2021-11-04"
+   },
+   "trackMetadata": {
+    "trackName": "Salimo de Noche",
+    "trackUri": "spotify:track:6P096SaOzrgGxs8NWOfX7M",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0255b019d222e7430828ea7e9b",
+    "artists": [
+     {
+      "name": "Tiago PZK",
+      "spotifyUri": "spotify:artist:5Y3MV9DZ0d87NnVm56qSY1"
+     },
+     {
+      "name": "Trueno",
+      "spotifyUri": "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "WM Chile"
+     }
+    ],
+    "releaseDate": "2021-10-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 99,
+    "previousRank": -1,
+    "peakRank": 99,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "7941774",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 99,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "You Wouldn't Understand",
+    "trackUri": "spotify:track:2W1Aq2c6PUSHBC0golgHLK",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 100,
+    "previousRank": 85,
+    "peakRank": 32,
+    "appearancesOnChart": 9,
+    "consecutiveAppearancesOnChart": 9,
+    "rankingMetric": {
+     "value": "7859383",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-04",
+    "entryRank": 164,
+    "entryDate": "2021-10-21"
+   },
+   "trackMetadata": {
+    "trackName": "Better Days (NEIKED x Mae Muller x Polo G)",
+    "trackUri": "spotify:track:6f5ExP43esnvdKPddwKXJH",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026b742298f7f36717855c4caf",
+    "artists": [
+     {
+      "name": "NEIKED",
+      "spotifyUri": "spotify:artist:5H6xmHXjsq98NLbEjuE29f"
+     },
+     {
+      "name": "Mae Muller",
+      "spotifyUri": "spotify:artist:1BEUkE2CSUgHTLSBMZdnFB"
+     },
+     {
+      "name": "Polo G",
+      "spotifyUri": "spotify:artist:6AgTAQt8XS6jRWi4sX7w49"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Capitol"
+     }
+    ],
+    "releaseDate": "2021-09-24"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 101,
+    "previousRank": 95,
+    "peakRank": 4,
+    "appearancesOnChart": 154,
+    "consecutiveAppearancesOnChart": 154,
+    "rankingMetric": {
+     "value": "7842255",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2019-10-03",
+    "entryRank": 194,
+    "entryDate": "2019-01-10"
+   },
+   "trackMetadata": {
+    "trackName": "Someone You Loved",
+    "trackUri": "spotify:track:7qEHsqek33rTcFNT9PFqLf",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fc2101e6889d6ce9025f85f2",
+    "artists": [
+     {
+      "name": "Lewis Capaldi",
+      "spotifyUri": "spotify:artist:4GNC7GD6oZMSxPGyXy4MNB"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Vertigo Berlin"
+     }
+    ],
+    "releaseDate": "2019-05-17"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 102,
+    "previousRank": 100,
+    "peakRank": 2,
+    "appearancesOnChart": 111,
+    "consecutiveAppearancesOnChart": 111,
+    "rankingMetric": {
+     "value": "7788013",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-04-02",
+    "entryRank": 5,
+    "entryDate": "2019-11-07"
+   },
+   "trackMetadata": {
+    "trackName": "Don't Start Now",
+    "trackUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02bd26ede1ae69327010d49946",
+    "artists": [
+     {
+      "name": "Dua Lipa",
+      "spotifyUri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Warner Records"
+     }
+    ],
+    "releaseDate": "2020-03-27"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 103,
+    "previousRank": 91,
+    "peakRank": 2,
+    "appearancesOnChart": 69,
+    "consecutiveAppearancesOnChart": 69,
+    "rankingMetric": {
+     "value": "7705395",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-08-27",
+    "entryRank": 2,
+    "entryDate": "2020-08-27"
+   },
+   "trackMetadata": {
+    "trackName": "Dynamite",
+    "trackUri": "spotify:track:5QDLhrAOJJdNAmCTJ8xMyW",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c07d5d2fdc02ae252fcd07e5",
+    "artists": [
+     {
+      "name": "BTS",
+      "spotifyUri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "BIGHIT MUSIC"
+     }
+    ],
+    "releaseDate": "2020-11-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 104,
+    "previousRank": 99,
+    "peakRank": 19,
+    "appearancesOnChart": 23,
+    "consecutiveAppearancesOnChart": 23,
+    "rankingMetric": {
+     "value": "7587313",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-07-22",
+    "entryRank": 23,
+    "entryDate": "2021-07-15"
+   },
+   "trackMetadata": {
+    "trackName": "Volando - Remix",
+    "trackUri": "spotify:track:0G2zPzWqVjR68iNPmx2TBe",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c06f8626913962e921586190",
+    "artists": [
+     {
+      "name": "Mora",
+      "spotifyUri": "spotify:artist:0Q8NcsJwoCbZOHHW63su5S"
+     },
+     {
+      "name": "Bad Bunny",
+      "spotifyUri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+     },
+     {
+      "name": "Sech",
+      "spotifyUri": "spotify:artist:77ziqFxp5gaInVrF2lj4ht"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Rimas Entertainment LLC"
+     }
+    ],
+    "releaseDate": "2021-07-08"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 105,
+    "previousRank": 117,
+    "peakRank": 1,
+    "appearancesOnChart": 165,
+    "consecutiveAppearancesOnChart": 165,
+    "rankingMetric": {
+     "value": "7535945",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2019-01-10",
+    "entryRank": 5,
+    "entryDate": "2018-10-25"
+   },
+   "trackMetadata": {
+    "trackName": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "trackUri": "spotify:track:0RiRZpuVRbi7oqRdSMwhQY",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+    "artists": [
+     {
+      "name": "Post Malone",
+      "spotifyUri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+     },
+     {
+      "name": "Swae Lee",
+      "spotifyUri": "spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2019-09-06"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 106,
+    "previousRank": 104,
+    "peakRank": 41,
+    "appearancesOnChart": 23,
+    "consecutiveAppearancesOnChart": 23,
+    "rankingMetric": {
+     "value": "7414547",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-08-19",
+    "entryRank": 109,
+    "entryDate": "2021-07-15"
+   },
+   "trackMetadata": {
+    "trackName": "Sobrio",
+    "trackUri": "spotify:track:4HzqWEdAbzcVFDv0pvxV4w",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020c912949e9f848cc95797b27",
+    "artists": [
+     {
+      "name": "Maluma",
+      "spotifyUri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sony Music Latin"
+     }
+    ],
+    "releaseDate": "2021-07-08"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 107,
+    "previousRank": 112,
+    "peakRank": 16,
+    "appearancesOnChart": 254,
+    "consecutiveAppearancesOnChart": 254,
+    "rankingMetric": {
+     "value": "7398513",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2017-06-29",
+    "entryRank": 73,
+    "entryDate": "2017-02-09"
+   },
+   "trackMetadata": {
+    "trackName": "Believer",
+    "trackUri": "spotify:track:0pqnGHJpmpxLKifKRmU6WP",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+    "artists": [
+     {
+      "name": "Imagine Dragons",
+      "spotifyUri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Kid Ina Korner / Interscope"
+     }
+    ],
+    "releaseDate": "2017-06-23"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 108,
+    "previousRank": -1,
+    "peakRank": 108,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "7388110",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 108,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Pope Is a Rockstar",
+    "trackUri": "spotify:track:0So2sgVa8aJiARPl2P29u2",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021138eea74b6d7e06289bedaa",
+    "artists": [
+     {
+      "name": "SALES",
+      "spotifyUri": "spotify:artist:6vVztIuqdDHvYWxOEXCzjN"
+     }
+    ],
+    "labels": [
+     {
+      "name": "SALES"
+     }
+    ],
+    "releaseDate": "2016-04-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 109,
+    "previousRank": -1,
+    "peakRank": 109,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "7344017",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 109,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Doom",
+    "trackUri": "spotify:track:38Vh0iUlilcvnBNWS4saSD",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 110,
+    "previousRank": 101,
+    "peakRank": 35,
+    "appearancesOnChart": 21,
+    "consecutiveAppearancesOnChart": 21,
+    "rankingMetric": {
+     "value": "7299184",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-08-26",
+    "entryRank": 184,
+    "entryDate": "2021-07-29"
+   },
+   "trackMetadata": {
+    "trackName": "Cúrame",
+    "trackUri": "spotify:track:3PwRuzdphgedcWVUOVYJ7I",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d9525f27b0a9e25b1fa21230",
+    "artists": [
+     {
+      "name": "Rauw Alejandro",
+      "spotifyUri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sony Music Latin/Duars Entertainment"
+     }
+    ],
+    "releaseDate": "2021-12-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 111,
+    "previousRank": 136,
+    "peakRank": 50,
+    "appearancesOnChart": 10,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "7280277",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2019-12-26",
+    "entryRank": 135,
+    "entryDate": "2018-12-27"
+   },
+   "trackMetadata": {
+    "trackName": "Christmas (Baby Please Come Home)",
+    "trackUri": "spotify:track:47ohYW8e7dxCYn9qbUMBCI",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024bd42504ca3569f71af64fc8",
+    "artists": [
+     {
+      "name": "Darlene Love",
+      "spotifyUri": "spotify:artist:391oLRVmoTkumiN79HkTWu"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Legacy Recordings"
+     }
+    ],
+    "releaseDate": "2020-12-04"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 112,
+    "previousRank": 105,
+    "peakRank": 12,
+    "appearancesOnChart": 30,
+    "consecutiveAppearancesOnChart": 30,
+    "rankingMetric": {
+     "value": "7227460",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-05-27",
+    "entryRank": 12,
+    "entryDate": "2021-05-27"
+   },
+   "trackMetadata": {
+    "trackName": "happier",
+    "trackUri": "spotify:track:2tGvwE8GcFKwNdAXMnlbfl",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+    "artists": [
+     {
+      "name": "Olivia Rodrigo",
+      "spotifyUri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Olivia Rodrigo PS"
+     }
+    ],
+    "releaseDate": "2021-05-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 113,
+    "previousRank": 113,
+    "peakRank": 24,
+    "appearancesOnChart": 191,
+    "consecutiveAppearancesOnChart": 191,
+    "rankingMetric": {
+     "value": "7216687",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NO_CHANGE",
+    "peakDate": "2018-06-14",
+    "entryRank": 138,
+    "entryDate": "2018-04-26"
+   },
+   "trackMetadata": {
+    "trackName": "lovely (with Khalid)",
+    "trackUri": "spotify:track:0u2P5u6lvoDfwTYjAADbn4",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028a3f0a3ca7929dea23cd274c",
+    "artists": [
+     {
+      "name": "Billie Eilish",
+      "spotifyUri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+     },
+     {
+      "name": "Khalid",
+      "spotifyUri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Darkroom"
+     }
+    ],
+    "releaseDate": "2018-04-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 114,
+    "previousRank": -1,
+    "peakRank": 114,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "7193326",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 114,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Not Enough",
+    "trackUri": "spotify:track:59NTlSZN6G2eCs4jcf46C0",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 115,
+    "previousRank": 90,
+    "peakRank": 5,
+    "appearancesOnChart": 15,
+    "consecutiveAppearancesOnChart": 15,
+    "rankingMetric": {
+     "value": "7184364",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-09",
+    "entryRank": 5,
+    "entryDate": "2021-09-09"
+   },
+   "trackMetadata": {
+    "trackName": "Way 2 Sexy (with Future & Young Thug)",
+    "trackUri": "spotify:track:0k1WUmIRnG3xU6fvvDVfRG",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+    "artists": [
+     {
+      "name": "Drake",
+      "spotifyUri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+     },
+     {
+      "name": "Future",
+      "spotifyUri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+     },
+     {
+      "name": "Young Thug",
+      "spotifyUri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+     }
+    ],
+    "labels": [
+     {
+      "name": "OVO"
+     }
+    ],
+    "releaseDate": "2021-09-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 116,
+    "previousRank": 75,
+    "peakRank": 12,
+    "appearancesOnChart": 73,
+    "consecutiveAppearancesOnChart": 73,
+    "rankingMetric": {
+     "value": "7150617",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-09-10",
+    "entryRank": 140,
+    "entryDate": "2020-07-30"
+   },
+   "trackMetadata": {
+    "trackName": "Heather",
+    "trackUri": "spotify:track:4xqrdfXkTW4T0RauPLv3WA",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0288e3cda6d29b2552d4d6bc43",
+    "artists": [
+     {
+      "name": "Conan Gray",
+      "spotifyUri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2020-03-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 117,
+    "previousRank": 122,
+    "peakRank": 114,
+    "appearancesOnChart": 18,
+    "consecutiveAppearancesOnChart": 14,
+    "rankingMetric": {
+     "value": "7134057",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-11-11",
+    "entryRank": 190,
+    "entryDate": "2021-08-12"
+   },
+   "trackMetadata": {
+    "trackName": "Dandelions",
+    "trackUri": "spotify:track:2eAvDnpXP5W0cVtiI0PUxV",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0297e971f3e53475091dc8d707",
+    "artists": [
+     {
+      "name": "Ruth B.",
+      "spotifyUri": "spotify:artist:2WzaAvm2bBCf4pEhyuDgCY"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2017-05-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 118,
+    "previousRank": 103,
+    "peakRank": 1,
+    "appearancesOnChart": 71,
+    "consecutiveAppearancesOnChart": 71,
+    "rankingMetric": {
+     "value": "7119587",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-09-24",
+    "entryRank": 159,
+    "entryDate": "2020-08-13"
+   },
+   "trackMetadata": {
+    "trackName": "Mood (feat. iann dior)",
+    "trackUri": "spotify:track:4jPy3l0RUwlUI9T5XHBW2m",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0284c53fa832dfa265192419c5",
+    "artists": [
+     {
+      "name": "24kGoldn",
+      "spotifyUri": "spotify:artist:6fWVd57NKTalqvmjRd2t8Z"
+     },
+     {
+      "name": "iann dior",
+      "spotifyUri": "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Records/Columbia"
+     }
+    ],
+    "releaseDate": "2021-03-26"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 119,
+    "previousRank": 76,
+    "peakRank": 76,
+    "appearancesOnChart": 2,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "7105010",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-12-09",
+    "entryRank": 76,
+    "entryDate": "2021-12-09"
+   },
+   "trackMetadata": {
+    "trackName": "It'll Be Okay",
+    "trackUri": "spotify:track:2KnLkZ3z7PO3kgVGHGqDpD",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0272355b30dde4b6ded10ef48c",
+    "artists": [
+     {
+      "name": "Shawn Mendes",
+      "spotifyUri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Shawn Mendes LP4-5 PS/ Island"
+     }
+    ],
+    "releaseDate": "2021-12-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 120,
+    "previousRank": 109,
+    "peakRank": 36,
+    "appearancesOnChart": 20,
+    "consecutiveAppearancesOnChart": 19,
+    "rankingMetric": {
+     "value": "7097739",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-16",
+    "entryRank": 121,
+    "entryDate": "2021-07-01"
+   },
+   "trackMetadata": {
+    "trackName": "Get Into It (Yuh)",
+    "trackUri": "spotify:track:0W6I02J9xcqK8MtSeosEXb",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
+    "artists": [
+     {
+      "name": "Doja Cat",
+      "spotifyUri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Kemosabe Records/RCA Records"
+     }
+    ],
+    "releaseDate": "2021-06-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 121,
+    "previousRank": 82,
+    "peakRank": 63,
+    "appearancesOnChart": 14,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "7091746",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2019-12-26",
+    "entryRank": 152,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Step Into Christmas",
+    "trackUri": "spotify:track:6sBWmE23q6xQHlnEZ8jYPT",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024d005d6881d80313c1127580",
+    "artists": [
+     {
+      "name": "Elton John",
+      "spotifyUri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+     }
+    ],
+    "labels": [
+     {
+      "name": "UMC (Universal Music Catalogue)"
+     }
+    ],
+    "releaseDate": "1973-10-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 122,
+    "previousRank": 151,
+    "peakRank": 65,
+    "appearancesOnChart": 11,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "7087565",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 182,
+    "entryDate": "2018-12-13"
+   },
+   "trackMetadata": {
+    "trackName": "Christmas (Baby Please Come Home)",
+    "trackUri": "spotify:track:3PIDciSFdrQxSQSihim3hN",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024246e3158421f5abb75abc4f",
+    "artists": [
+     {
+      "name": "Mariah Carey",
+      "spotifyUri": "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "1994-10-28"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 123,
+    "previousRank": 106,
+    "peakRank": 36,
+    "appearancesOnChart": 11,
+    "consecutiveAppearancesOnChart": 11,
+    "rankingMetric": {
+     "value": "7066927",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-21",
+    "entryRank": 170,
+    "entryDate": "2021-10-07"
+   },
+   "trackMetadata": {
+    "trackName": "Rolling in the Deep",
+    "trackUri": "spotify:track:6IAZHEBUIGJ6NJKxxOBIEr",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fb7eedd9877b0c60597ef3e5",
+    "artists": [
+     {
+      "name": "Adele",
+      "spotifyUri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+     }
+    ],
+    "labels": [
+     {
+      "name": "XL Recordings"
+     }
+    ],
+    "releaseDate": "2011-01-24"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 124,
+    "previousRank": 118,
+    "peakRank": 67,
+    "appearancesOnChart": 6,
+    "consecutiveAppearancesOnChart": 6,
+    "rankingMetric": {
+     "value": "7056651",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-11",
+    "entryRank": 67,
+    "entryDate": "2021-11-11"
+   },
+   "trackMetadata": {
+    "trackName": "Esqueça-Me Se For Capaz",
+    "trackUri": "spotify:track:4qsOrxBv09HhNSpsgMRXdC",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fac33ccdd1fdd1821a5a0aa1",
+    "artists": [
+     {
+      "name": "Marília Mendonça",
+      "spotifyUri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+     },
+     {
+      "name": "Maiara & Maraisa",
+      "spotifyUri": "spotify:artist:59jlthNnbmim5l9tmNA7se"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Som Livre"
+     }
+    ],
+    "releaseDate": "2021-10-14"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 125,
+    "previousRank": 146,
+    "peakRank": 59,
+    "appearancesOnChart": 11,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "7050916",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 177,
+    "entryDate": "2017-12-28"
+   },
+   "trackMetadata": {
+    "trackName": "Santa Claus Is Coming To Town",
+    "trackUri": "spotify:track:6a1hzBiTkgqTsDA0Xgfh9z",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0208a0fe33e91b991d2c9c9cde",
+    "artists": [
+     {
+      "name": "The Jackson 5",
+      "spotifyUri": "spotify:artist:2iE18Oxc8YSumAU232n4rW"
+     }
+    ],
+    "labels": [
+     {
+      "name": "UNI/MOTOWN"
+     }
+    ],
+    "releaseDate": "1970-10-15"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 126,
+    "previousRank": 111,
+    "peakRank": 31,
+    "appearancesOnChart": 22,
+    "consecutiveAppearancesOnChart": 22,
+    "rankingMetric": {
+     "value": "6989954",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-08-26",
+    "entryRank": 125,
+    "entryDate": "2021-07-22"
+   },
+   "trackMetadata": {
+    "trackName": "2055",
+    "trackUri": "spotify:track:4XvcHTUfIlWfyJTRG0aqlo",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0278376f650afd63698b82e4b1",
+    "artists": [
+     {
+      "name": "Sleepy Hallow",
+      "spotifyUri": "spotify:artist:6EPlBSH2RSiettczlz7ihV"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Winners Circle/RCA Records"
+     }
+    ],
+    "releaseDate": "2021-06-02"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 127,
+    "previousRank": 150,
+    "peakRank": 127,
+    "appearancesOnChart": 2,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "6988011",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 150,
+    "entryDate": "2021-12-09"
+   },
+   "trackMetadata": {
+    "trackName": "ELEVEN",
+    "trackUri": "spotify:track:7n2FZQsaLb7ZRfRPfEeIvr",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02da343b21617aac0c57e332bb",
+    "artists": [
+     {
+      "name": "IVE",
+      "spotifyUri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "STARSHIP Entertainment"
+     }
+    ],
+    "releaseDate": "2021-12-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 128,
+    "previousRank": 116,
+    "peakRank": 57,
+    "appearancesOnChart": 11,
+    "consecutiveAppearancesOnChart": 11,
+    "rankingMetric": {
+     "value": "6961124",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-07",
+    "entryRank": 57,
+    "entryDate": "2021-10-07"
+   },
+   "trackMetadata": {
+    "trackName": "The Feels",
+    "trackUri": "spotify:track:1qE8DOtw7zdXHMgZm20eLM",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c11578f0d39a2d639a92046d",
+    "artists": [
+     {
+      "name": "TWICE",
+      "spotifyUri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records - TWICE"
+     }
+    ],
+    "releaseDate": "2021-11-12"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 129,
+    "previousRank": 102,
+    "peakRank": 8,
+    "appearancesOnChart": 30,
+    "consecutiveAppearancesOnChart": 30,
+    "rankingMetric": {
+     "value": "6932736",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-07-08",
+    "entryRank": 74,
+    "entryDate": "2021-05-27"
+   },
+   "trackMetadata": {
+    "trackName": "I WANNA BE YOUR SLAVE",
+    "trackUri": "spotify:track:4pt5fDVTg5GhEvEtlz9dKk",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025aa05015cfa7bd2943c29b21",
+    "artists": [
+     {
+      "name": "Måneskin",
+      "spotifyUri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RCA Records Label"
+     }
+    ],
+    "releaseDate": "2021-03-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 130,
+    "previousRank": 114,
+    "peakRank": 9,
+    "appearancesOnChart": 29,
+    "consecutiveAppearancesOnChart": 29,
+    "rankingMetric": {
+     "value": "6923180",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-07-08",
+    "entryRank": 77,
+    "entryDate": "2021-06-03"
+   },
+   "trackMetadata": {
+    "trackName": "Qué Más Pues?",
+    "trackUri": "spotify:track:6D2TCm4nf5nxAcdGJ7w3QP",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02922a7339d969b5f0262580f5",
+    "artists": [
+     {
+      "name": "J Balvin",
+      "spotifyUri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+     },
+     {
+      "name": "Maria Becerra",
+      "spotifyUri": "spotify:artist:1DxLCyH42yaHKGK3cl5bvG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sueños Globales, LLC"
+     }
+    ],
+    "releaseDate": "2021-09-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 131,
+    "previousRank": 126,
+    "peakRank": 126,
+    "appearancesOnChart": 4,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "6913250",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-12-02",
+    "entryRank": 149,
+    "entryDate": "2021-11-25"
+   },
+   "trackMetadata": {
+    "trackName": "Vai Lá Em Casa Hoje",
+    "trackUri": "spotify:track:1c4htMHiolERc0YJvZNdlc",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029a88ae9980874d6e1f41ecd1",
+    "artists": [
+     {
+      "name": "George Henrique & Rodrigo",
+      "spotifyUri": "spotify:artist:3FlCKtwOEYQQYyGVEbxG2Z"
+     },
+     {
+      "name": "Marília Mendonça",
+      "spotifyUri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Worldshow Promoções e Eventos"
+     }
+    ],
+    "releaseDate": "2021-10-22"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 132,
+    "previousRank": -1,
+    "peakRank": 132,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "6867102",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 132,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Super Gremlin",
+    "trackUri": "spotify:track:4A8cWXxKfIL3lAyUDzXbCF",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025340631eca6f127d094545c9",
+    "artists": [
+     {
+      "name": "Kodak Black",
+      "spotifyUri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic/Sniper Gang"
+     }
+    ],
+    "releaseDate": "2021-10-30"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 133,
+    "previousRank": -1,
+    "peakRank": 133,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "6828669",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 133,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Go Hard",
+    "trackUri": "spotify:track:7FAND3cHMvepHjpBp8gOZ9",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Grade A Productions/Interscope Records"
+     }
+    ],
+    "releaseDate": "2022-03-18"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 134,
+    "previousRank": 156,
+    "peakRank": 44,
+    "appearancesOnChart": 13,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "6798087",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-12-27",
+    "entryRank": 145,
+    "entryDate": "2017-12-28"
+   },
+   "trackMetadata": {
+    "trackName": "Jingle Bell Rock - Daryl's Version",
+    "trackUri": "spotify:track:6pVW5LRWgeLaHudxauOTJU",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02758f7f6791ee819e6c2999b4",
+    "artists": [
+     {
+      "name": "Daryl Hall & John Oates",
+      "spotifyUri": "spotify:artist:77tT1kLj6mCWtFNqiOmP9H"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Legacy Recordings"
+     }
+    ],
+    "releaseDate": "1983-11-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 135,
+    "previousRank": 121,
+    "peakRank": 1,
+    "appearancesOnChart": 60,
+    "consecutiveAppearancesOnChart": 60,
+    "rankingMetric": {
+     "value": "6720132",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-10-29",
+    "entryRank": 1,
+    "entryDate": "2020-10-29"
+   },
+   "trackMetadata": {
+    "trackName": "positions",
+    "trackUri": "spotify:track:35mvY5S1H3J2QZyna3TFe0",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
+    "artists": [
+     {
+      "name": "Ariana Grande",
+      "spotifyUri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2020-10-30"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 136,
+    "previousRank": 124,
+    "peakRank": 55,
+    "appearancesOnChart": 33,
+    "consecutiveAppearancesOnChart": 33,
+    "rankingMetric": {
+     "value": "6712517",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-08-12",
+    "entryRank": 155,
+    "entryDate": "2021-05-06"
+   },
+   "trackMetadata": {
+    "trackName": "Freaks",
+    "trackUri": "spotify:track:7EkWXAI1wn8Ii883ecd9xr",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029efda673310de265a2c1cf1f",
+    "artists": [
+     {
+      "name": "Surf Curse",
+      "spotifyUri": "spotify:artist:1gl0S9pS0Zw0qfa14rDD3D"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Surf Curse"
+     }
+    ],
+    "releaseDate": "2021-05-15"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 137,
+    "previousRank": 174,
+    "peakRank": 47,
+    "appearancesOnChart": 20,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "6652526",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 110,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Fairytale of New York (feat. Kirsty MacColl)",
+    "trackUri": "spotify:track:3VTNVsTTu05dmTsVFrmGpK",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d0ccf94a2d981db731f5dab8",
+    "artists": [
+     {
+      "name": "The Pogues",
+      "spotifyUri": "spotify:artist:2wzMOQwNT6ZvVB4amvhFAH"
+     },
+     {
+      "name": "Kirsty MacColl",
+      "spotifyUri": "spotify:artist:6UlNIFEuWlBqb4TvlVCekq"
+     }
+    ],
+    "labels": [
+     {
+      "name": "WM UK"
+     }
+    ],
+    "releaseDate": "1988-09-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 138,
+    "previousRank": 155,
+    "peakRank": 104,
+    "appearancesOnChart": 6,
+    "consecutiveAppearancesOnChart": 6,
+    "rankingMetric": {
+     "value": "6642189",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-11-11",
+    "entryRank": 104,
+    "entryDate": "2021-11-11"
+   },
+   "trackMetadata": {
+    "trackName": "The Motto",
+    "trackUri": "spotify:track:18asYwWugKjjsihZ0YvRxO",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026b64f7a7e0e7af3d604ab41e",
+    "artists": [
+     {
+      "name": "Tiësto",
+      "spotifyUri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+     },
+     {
+      "name": "Ava Max",
+      "spotifyUri": "spotify:artist:4npEfmQ6YuiwW1GpUmaq3F"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records"
+     }
+    ],
+    "releaseDate": "2021-11-04"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 139,
+    "previousRank": 125,
+    "peakRank": 44,
+    "appearancesOnChart": 15,
+    "consecutiveAppearancesOnChart": 15,
+    "rankingMetric": {
+     "value": "6591715",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-23",
+    "entryRank": 108,
+    "entryDate": "2021-09-09"
+   },
+   "trackMetadata": {
+    "trackName": "Ley Seca",
+    "trackUri": "spotify:track:3JCaq3KDSROg3TXhdiDa9n",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0221ee2e52263690b0b2c80c2a",
+    "artists": [
+     {
+      "name": "Jhay Cortez",
+      "spotifyUri": "spotify:artist:0EFisYRi20PTADoJrifHrz"
+     },
+     {
+      "name": "Anuel AA",
+      "spotifyUri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+     }
+    ],
+    "labels": [
+     {
+      "name": "N&E Entertainment LLC"
+     }
+    ],
+    "releaseDate": "2021-09-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 140,
+    "previousRank": 179,
+    "peakRank": 65,
+    "appearancesOnChart": 12,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "6523524",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2020-12-24",
+    "entryRank": 138,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Run Rudolph Run - Single Version",
+    "trackUri": "spotify:track:2pnPe4pJtq7689i5ydzvJJ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0239807cff601735a3dec9e24c",
+    "artists": [
+     {
+      "name": "Chuck Berry",
+      "spotifyUri": "spotify:artist:293zczrfYafIItmnmM3coR"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Geffen*"
+     }
+    ],
+    "releaseDate": "1986-01-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 141,
+    "previousRank": 131,
+    "peakRank": 99,
+    "appearancesOnChart": 5,
+    "consecutiveAppearancesOnChart": 5,
+    "rankingMetric": {
+     "value": "6518816",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-25",
+    "entryRank": 150,
+    "entryDate": "2021-11-18"
+   },
+   "trackMetadata": {
+    "trackName": "Bar",
+    "trackUri": "spotify:track:0lJE8f0lx8mUSfMyxeYpiC",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027b1a8b1a92561bb5d16d6b4c",
+    "artists": [
+     {
+      "name": "TINI",
+      "spotifyUri": "spotify:artist:7vXDAI8JwjW531ouMGbfcp"
+     },
+     {
+      "name": "L-Gante",
+      "spotifyUri": "spotify:artist:4YYxffPVDFe9XoqqbRW6Bq"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sony Music Latin"
+     }
+    ],
+    "releaseDate": "2021-11-11"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 142,
+    "previousRank": 120,
+    "peakRank": 3,
+    "appearancesOnChart": 48,
+    "consecutiveAppearancesOnChart": 48,
+    "rankingMetric": {
+     "value": "6499881",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-03-25",
+    "entryRank": 172,
+    "entryDate": "2021-01-21"
+   },
+   "trackMetadata": {
+    "trackName": "Astronaut In The Ocean",
+    "trackUri": "spotify:track:6E90gq0KO6FYZVOXx8kCcC",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02580a07f13ece1bd30d37bd80",
+    "artists": [
+     {
+      "name": "Masked Wolf",
+      "spotifyUri": "spotify:artist:1uU7g3DNSbsu0QjSEqZtEd"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Elektra (NEK)"
+     }
+    ],
+    "releaseDate": "2021-09-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 143,
+    "previousRank": -1,
+    "peakRank": 71,
+    "appearancesOnChart": 5,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "6482318",
+     "type": "STREAMS"
+    },
+    "entryStatus": "RE_ENTRY",
+    "peakDate": "2019-12-26",
+    "entryRank": 178,
+    "entryDate": "2017-12-28"
+   },
+   "trackMetadata": {
+    "trackName": "Thank God It's Christmas - Non-Album Single",
+    "trackUri": "spotify:track:2xGO2UjzxeVQSIkyg98vck",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d1e7c0e1bf0980298428a1ae",
+    "artists": [
+     {
+      "name": "Queen",
+      "spotifyUri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+     }
+    ],
+    "labels": [
+     {
+      "name": "EMI"
+     }
+    ],
+    "releaseDate": "1984-02-27"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 144,
+    "previousRank": 130,
+    "peakRank": 76,
+    "appearancesOnChart": 36,
+    "consecutiveAppearancesOnChart": 36,
+    "rankingMetric": {
+     "value": "6452107",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-04-29",
+    "entryRank": 117,
+    "entryDate": "2021-04-15"
+   },
+   "trackMetadata": {
+    "trackName": "Another Love",
+    "trackUri": "spotify:track:7jtQIBanIiJOMS6RyCx6jZ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+    "artists": [
+     {
+      "name": "Tom Odell",
+      "spotifyUri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "ITNO/Columbia"
+     }
+    ],
+    "releaseDate": "2013-06-24"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 145,
+    "previousRank": 123,
+    "peakRank": 9,
+    "appearancesOnChart": 59,
+    "consecutiveAppearancesOnChart": 59,
+    "rankingMetric": {
+     "value": "6439242",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-02-25",
+    "entryRank": 174,
+    "entryDate": "2020-11-05"
+   },
+   "trackMetadata": {
+    "trackName": "The Business",
+    "trackUri": "spotify:track:6f3Slt0GbA2bPZlz0aIFXN",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f461bbc21a9bcec43a926973",
+    "artists": [
+     {
+      "name": "Tiësto",
+      "spotifyUri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records"
+     }
+    ],
+    "releaseDate": "2020-09-16"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 146,
+    "previousRank": 175,
+    "peakRank": 59,
+    "appearancesOnChart": 19,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "6416009",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2019-12-26",
+    "entryRank": 77,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Blue Christmas",
+    "trackUri": "spotify:track:3QiAAp20rPC3dcAtKtMaqQ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02aa509be2dd24fb6c753cf292",
+    "artists": [
+     {
+      "name": "Elvis Presley",
+      "spotifyUri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RCA Victor"
+     }
+    ],
+    "releaseDate": "1957-10-15"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 147,
+    "previousRank": 158,
+    "peakRank": 84,
+    "appearancesOnChart": 17,
+    "consecutiveAppearancesOnChart": 17,
+    "rankingMetric": {
+     "value": "6411106",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-10-14",
+    "entryRank": 176,
+    "entryDate": "2021-08-26"
+   },
+   "trackMetadata": {
+    "trackName": "Arranhão - Ao Vivo",
+    "trackUri": "spotify:track:3IMLoeLerS7TMpKjxUgAhx",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0245014fbe5ca34ecb25994c57",
+    "artists": [
+     {
+      "name": "Henrique & Juliano",
+      "spotifyUri": "spotify:artist:3p7PcrEHaaKLJnPUGOtRlT"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Virgin Music Label And Artist Services (S&D)"
+     }
+    ],
+    "releaseDate": "2021-12-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 148,
+    "previousRank": 127,
+    "peakRank": 61,
+    "appearancesOnChart": 6,
+    "consecutiveAppearancesOnChart": 6,
+    "rankingMetric": {
+     "value": "6405864",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-18",
+    "entryRank": 154,
+    "entryDate": "2021-11-11"
+   },
+   "trackMetadata": {
+    "trackName": "Enchanted",
+    "trackUri": "spotify:track:04S1pkp1VaIqjg8zZqknR5",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d0eae3c1661a96570f0ca7bd",
+    "artists": [
+     {
+      "name": "Taylor Swift",
+      "spotifyUri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Big Machine Records, LLC"
+     }
+    ],
+    "releaseDate": "2010-10-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 149,
+    "previousRank": 135,
+    "peakRank": 19,
+    "appearancesOnChart": 108,
+    "consecutiveAppearancesOnChart": 108,
+    "rankingMetric": {
+     "value": "6397749",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2019-11-28",
+    "entryRank": 19,
+    "entryDate": "2019-11-28"
+   },
+   "trackMetadata": {
+    "trackName": "Before You Go",
+    "trackUri": "spotify:track:2gMXnyrvIjhVBUZwvLZDMP",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027b9639babbe96e25071ec1d4",
+    "artists": [
+     {
+      "name": "Lewis Capaldi",
+      "spotifyUri": "spotify:artist:4GNC7GD6oZMSxPGyXy4MNB"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Vertigo Berlin"
+     }
+    ],
+    "releaseDate": "2019-11-22"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 150,
+    "previousRank": 132,
+    "peakRank": 30,
+    "appearancesOnChart": 16,
+    "consecutiveAppearancesOnChart": 16,
+    "rankingMetric": {
+     "value": "6371652",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-16",
+    "entryRank": 36,
+    "entryDate": "2021-09-02"
+   },
+   "trackMetadata": {
+    "trackName": "family ties (with Kendrick Lamar)",
+    "trackUri": "spotify:track:3QFInJAm9eyaho5vBzxInN",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021bfa23b13d0504fb90c37b39",
+    "artists": [
+     {
+      "name": "Baby Keem",
+      "spotifyUri": "spotify:artist:5SXuuuRpukkTvsLuUknva1"
+     },
+     {
+      "name": "Kendrick Lamar",
+      "spotifyUri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-09-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 151,
+    "previousRank": -1,
+    "peakRank": 64,
+    "appearancesOnChart": 13,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "6371042",
+     "type": "STREAMS"
+    },
+    "entryStatus": "RE_ENTRY",
+    "peakDate": "2018-12-27",
+    "entryRank": 185,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "My Only Wish (This Year)",
+    "trackUri": "spotify:track:0YWUHZPJVg4iujddsJDwhM",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0216ed688a08ecd351560f4566",
+    "artists": [
+     {
+      "name": "Britney Spears",
+      "spotifyUri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Jive"
+     }
+    ],
+    "releaseDate": "2000-11-14"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 152,
+    "previousRank": 134,
+    "peakRank": 113,
+    "appearancesOnChart": 9,
+    "consecutiveAppearancesOnChart": 9,
+    "rankingMetric": {
+     "value": "6360125",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-11",
+    "entryRank": 190,
+    "entryDate": "2021-10-21"
+   },
+   "trackMetadata": {
+    "trackName": "Sky",
+    "trackUri": "spotify:track:29TPjc8wxfz4XMn21O7VsZ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0298ea0e689c91f8fea726d9bb",
+    "artists": [
+     {
+      "name": "Playboi Carti",
+      "spotifyUri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+     }
+    ],
+    "labels": [
+     {
+      "name": "AWGE/Interscope Records"
+     }
+    ],
+    "releaseDate": "2020-12-25"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 153,
+    "previousRank": 152,
+    "peakRank": 101,
+    "appearancesOnChart": 52,
+    "consecutiveAppearancesOnChart": 50,
+    "rankingMetric": {
+     "value": "6331520",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-21",
+    "entryRank": 183,
+    "entryDate": "2020-11-19"
+   },
+   "trackMetadata": {
+    "trackName": "Yellow",
+    "trackUri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e023d92b2ad5af9fbc8637425f0",
+    "artists": [
+     {
+      "name": "Coldplay",
+      "spotifyUri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Parlophone UK"
+     }
+    ],
+    "releaseDate": "2000-07-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 154,
+    "previousRank": 140,
+    "peakRank": 4,
+    "appearancesOnChart": 248,
+    "consecutiveAppearancesOnChart": 51,
+    "rankingMetric": {
+     "value": "6309729",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2017-11-30",
+    "entryRank": 7,
+    "entryDate": "2017-03-09"
+   },
+   "trackMetadata": {
+    "trackName": "Perfect",
+    "trackUri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+    "artists": [
+     {
+      "name": "Ed Sheeran",
+      "spotifyUri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records UK"
+     }
+    ],
+    "releaseDate": "2017-03-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 155,
+    "previousRank": 137,
+    "peakRank": 14,
+    "appearancesOnChart": 25,
+    "consecutiveAppearancesOnChart": 25,
+    "rankingMetric": {
+     "value": "6273391",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-07-01",
+    "entryRank": 14,
+    "entryDate": "2021-07-01"
+   },
+   "trackMetadata": {
+    "trackName": "AM Remix",
+    "trackUri": "spotify:track:05bfbizlM5AX6Mf1RRyMho",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022ae66aa58208495074d88fd0",
+    "artists": [
+     {
+      "name": "Nio Garcia",
+      "spotifyUri": "spotify:artist:5hdhHgpxyniooUiQVaPxQ0"
+     },
+     {
+      "name": "J Balvin",
+      "spotifyUri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+     },
+     {
+      "name": "Bad Bunny",
+      "spotifyUri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Flow La Movie"
+     }
+    ],
+    "releaseDate": "2021-06-24"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 156,
+    "previousRank": 133,
+    "peakRank": 3,
+    "appearancesOnChart": 15,
+    "consecutiveAppearancesOnChart": 15,
+    "rankingMetric": {
+     "value": "6265841",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-09-09",
+    "entryRank": 3,
+    "entryDate": "2021-09-09"
+   },
+   "trackMetadata": {
+    "trackName": "Fair Trade (with Travis Scott)",
+    "trackUri": "spotify:track:40iJIUlhi6renaREYGeIDS",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+    "artists": [
+     {
+      "name": "Drake",
+      "spotifyUri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+     },
+     {
+      "name": "Travis Scott",
+      "spotifyUri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+     }
+    ],
+    "labels": [
+     {
+      "name": "OVO"
+     }
+    ],
+    "releaseDate": "2021-09-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 157,
+    "previousRank": 139,
+    "peakRank": 11,
+    "appearancesOnChart": 28,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "6261013",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-06-03",
+    "entryRank": 14,
+    "entryDate": "2021-05-27"
+   },
+   "trackMetadata": {
+    "trackName": "favorite crime",
+    "trackUri": "spotify:track:5JCoSi02qi3jJeHdZXMmR8",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+    "artists": [
+     {
+      "name": "Olivia Rodrigo",
+      "spotifyUri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Olivia Rodrigo PS"
+     }
+    ],
+    "releaseDate": "2021-05-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 158,
+    "previousRank": 147,
+    "peakRank": 3,
+    "appearancesOnChart": 180,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "6239834",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2018-06-28",
+    "entryRank": 125,
+    "entryDate": "2018-05-17"
+   },
+   "trackMetadata": {
+    "trackName": "Lucid Dreams",
+    "trackUri": "spotify:track:285pBltuF7vW8TeWk8hdRR",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+    "artists": [
+     {
+      "name": "Juice WRLD",
+      "spotifyUri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Juice WRLD Mixtape / ISR P&D"
+     }
+    ],
+    "releaseDate": "2018-12-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 159,
+    "previousRank": 119,
+    "peakRank": 3,
+    "appearancesOnChart": 36,
+    "consecutiveAppearancesOnChart": 36,
+    "rankingMetric": {
+     "value": "6237561",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-04-15",
+    "entryRank": 3,
+    "entryDate": "2021-04-15"
+   },
+   "trackMetadata": {
+    "trackName": "RAPSTAR",
+    "trackUri": "spotify:track:18vXApRmJSgQ6wG2ll9AOg",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a493e05c99d8ec5e8020ff2b",
+    "artists": [
+     {
+      "name": "Polo G",
+      "spotifyUri": "spotify:artist:6AgTAQt8XS6jRWi4sX7w49"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-06-11"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 160,
+    "previousRank": 192,
+    "peakRank": 160,
+    "appearancesOnChart": 3,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "6210009",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-12-16",
+    "entryRank": 200,
+    "entryDate": "2021-12-02"
+   },
+   "trackMetadata": {
+    "trackName": "Toma Toma Vapo Vapo",
+    "trackUri": "spotify:track:5VTjBl3ddZEiG2LrH4VzyR",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d9df9d6a9af3328fae2ebeac",
+    "artists": [
+     {
+      "name": "Zé Felipe",
+      "spotifyUri": "spotify:artist:7cmuxPnXRJxwuYDHfbD8Eu"
+     },
+     {
+      "name": "Mc Danny",
+      "spotifyUri": "spotify:artist:3PZTvUS5fUUhV3EKAjqdZk"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Som Livre"
+     }
+    ],
+    "releaseDate": "2021-11-11"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 161,
+    "previousRank": 138,
+    "peakRank": 5,
+    "appearancesOnChart": 23,
+    "consecutiveAppearancesOnChart": 23,
+    "rankingMetric": {
+     "value": "6181467",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-07-15",
+    "entryRank": 5,
+    "entryDate": "2021-07-15"
+   },
+   "trackMetadata": {
+    "trackName": "Permission to Dance",
+    "trackUri": "spotify:track:3XYRV7ZSHqIRDG87DKTtry",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a7e481899b7e0396f93d10b8",
+    "artists": [
+     {
+      "name": "BTS",
+      "spotifyUri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
+     }
+    ],
+    "labels": [
+     {
+      "name": "BIGHIT MUSIC"
+     }
+    ],
+    "releaseDate": "2021-07-23"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 162,
+    "previousRank": 166,
+    "peakRank": 150,
+    "appearancesOnChart": 12,
+    "consecutiveAppearancesOnChart": 12,
+    "rankingMetric": {
+     "value": "6171714",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-11-11",
+    "entryRank": 195,
+    "entryDate": "2021-09-30"
+   },
+   "trackMetadata": {
+    "trackName": "Without Me",
+    "trackUri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+    "artists": [
+     {
+      "name": "Eminem",
+      "spotifyUri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Aftermath"
+     }
+    ],
+    "releaseDate": "2002-05-26"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 163,
+    "previousRank": 141,
+    "peakRank": 99,
+    "appearancesOnChart": 62,
+    "consecutiveAppearancesOnChart": 51,
+    "rankingMetric": {
+     "value": "6165325",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-02-04",
+    "entryRank": 198,
+    "entryDate": "2020-10-08"
+   },
+   "trackMetadata": {
+    "trackName": "Daddy Issues",
+    "trackUri": "spotify:track:5E30LdtzQTGqRvNd7l6kG5",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e023066581d697fbdee4303d685",
+    "artists": [
+     {
+      "name": "The Neighbourhood",
+      "spotifyUri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2015-10-30"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 164,
+    "previousRank": 143,
+    "peakRank": 1,
+    "appearancesOnChart": 120,
+    "consecutiveAppearancesOnChart": 120,
+    "rankingMetric": {
+     "value": "6143103",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2019-09-12",
+    "entryRank": 2,
+    "entryDate": "2019-09-05"
+   },
+   "trackMetadata": {
+    "trackName": "Circles",
+    "trackUri": "spotify:track:21jGcNKet2qwijlDFuPiPb",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+    "artists": [
+     {
+      "name": "Post Malone",
+      "spotifyUri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Republic Records"
+     }
+    ],
+    "releaseDate": "2019-09-06"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 165,
+    "previousRank": 157,
+    "peakRank": 157,
+    "appearancesOnChart": 2,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "6132942",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-12-09",
+    "entryRank": 157,
+    "entryDate": "2021-12-09"
+   },
+   "trackMetadata": {
+    "trackName": "Alien Blues",
+    "trackUri": "spotify:track:6UjeFOCGYgMpBUtqKg1Je3",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02578b0e6109b76bad0821ca71",
+    "artists": [
+     {
+      "name": "Vundabar",
+      "spotifyUri": "spotify:artist:1W4itxt3vwhmrgLEBuVHJ6"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Gawk Records, under exclusive license to Amuseio AB"
+     }
+    ],
+    "releaseDate": "2015-07-24"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 166,
+    "previousRank": 148,
+    "peakRank": 51,
+    "appearancesOnChart": 12,
+    "consecutiveAppearancesOnChart": 12,
+    "rankingMetric": {
+     "value": "6119210",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-14",
+    "entryRank": 75,
+    "entryDate": "2021-09-30"
+   },
+   "trackMetadata": {
+    "trackName": "Bored",
+    "trackUri": "spotify:track:04sN26COy28wTXYj3dMoiZ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e0f2af91be409aad81bba98c",
+    "artists": [
+     {
+      "name": "Billie Eilish",
+      "spotifyUri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Darkroom"
+     }
+    ],
+    "releaseDate": "2017-03-30"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 167,
+    "previousRank": -1,
+    "peakRank": 167,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "6072044",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 167,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Morad: Bzrp Music Sessions, Vol. 47",
+    "trackUri": "spotify:track:39yyHtQ4tkjZzd8TfIBKQw",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02161ccef0fa4b39c9c111c20a",
+    "artists": [
+     {
+      "name": "Bizarrap",
+      "spotifyUri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+     },
+     {
+      "name": "Morad",
+      "spotifyUri": "spotify:artist:4az97MtWmBQ5Db3GfDh9j9"
+     }
+    ],
+    "labels": [
+     {
+      "name": "DALE PLAY Records"
+     }
+    ],
+    "releaseDate": "2021-12-08"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 168,
+    "previousRank": 149,
+    "peakRank": 1,
+    "appearancesOnChart": 126,
+    "consecutiveAppearancesOnChart": 126,
+    "rankingMetric": {
+     "value": "6063538",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2019-10-17",
+    "entryRank": 99,
+    "entryDate": "2019-07-25"
+   },
+   "trackMetadata": {
+    "trackName": "Dance Monkey",
+    "trackUri": "spotify:track:2N8m6CYs74qQO4mjVcXO30",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028e8197111f9d57793a5e7eff",
+    "artists": [
+     {
+      "name": "Tones And I",
+      "spotifyUri": "spotify:artist:2NjfBq1NflQcKSeiDooVjY"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Elektra (NEK)"
+     }
+    ],
+    "releaseDate": "2021-07-16"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 169,
+    "previousRank": 184,
+    "peakRank": 125,
+    "appearancesOnChart": 7,
+    "consecutiveAppearancesOnChart": 7,
+    "rankingMetric": {
+     "value": "6026519",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2021-11-11",
+    "entryRank": 142,
+    "entryDate": "2021-11-04"
+   },
+   "trackMetadata": {
+    "trackName": "GALOPA",
+    "trackUri": "spotify:track:2wG1R0uDFwyobcWzVssC1J",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0280dadd1b416cff7c1d86d145",
+    "artists": [
+     {
+      "name": "PEDRO SAMPAIO",
+      "spotifyUri": "spotify:artist:5wbf52LA6kcaboHSN6NEF1"
+     }
+    ],
+    "labels": [
+     {
+      "name": "WM Brazil"
+     }
+    ],
+    "releaseDate": "2021-09-16"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 170,
+    "previousRank": 154,
+    "peakRank": 13,
+    "appearancesOnChart": 75,
+    "consecutiveAppearancesOnChart": 75,
+    "rankingMetric": {
+     "value": "5969017",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2020-10-22",
+    "entryRank": 152,
+    "entryDate": "2020-07-16"
+   },
+   "trackMetadata": {
+    "trackName": "you broke me first",
+    "trackUri": "spotify:track:45bE4HXI0AwGZXfZtMp8JR",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020c2c97099fd6a637ed0aa4a4",
+    "artists": [
+     {
+      "name": "Tate McRae",
+      "spotifyUri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RCA Records Label"
+     }
+    ],
+    "releaseDate": "2020-04-17"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 171,
+    "previousRank": 167,
+    "peakRank": 1,
+    "appearancesOnChart": 255,
+    "consecutiveAppearancesOnChart": 51,
+    "rankingMetric": {
+     "value": "5967240",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2017-01-12",
+    "entryRank": 1,
+    "entryDate": "2017-01-12"
+   },
+   "trackMetadata": {
+    "trackName": "Shape of You",
+    "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+    "artists": [
+     {
+      "name": "Ed Sheeran",
+      "spotifyUri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records UK"
+     }
+    ],
+    "releaseDate": "2017-03-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 172,
+    "previousRank": 145,
+    "peakRank": 8,
+    "appearancesOnChart": 43,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "5958130",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-04-08",
+    "entryRank": 58,
+    "entryDate": "2021-02-18"
+   },
+   "trackMetadata": {
+    "trackName": "Heartbreak Anniversary",
+    "trackUri": "spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+    "artists": [
+     {
+      "name": "Giveon",
+      "spotifyUri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Epic/Not So Fast"
+     }
+    ],
+    "releaseDate": "2020-03-27"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 173,
+    "previousRank": 161,
+    "peakRank": 104,
+    "appearancesOnChart": 20,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "5934366",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-02-11",
+    "entryRank": 184,
+    "entryDate": "2020-12-31"
+   },
+   "trackMetadata": {
+    "trackName": "Why'd You Only Call Me When You're High?",
+    "trackUri": "spotify:track:48q0vSHcJdhK3IiXH8C5WJ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+    "artists": [
+     {
+      "name": "Arctic Monkeys",
+      "spotifyUri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Domino Recording Co"
+     }
+    ],
+    "releaseDate": "2013-09-09"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 174,
+    "previousRank": -1,
+    "peakRank": 29,
+    "appearancesOnChart": 18,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "5912028",
+     "type": "STREAMS"
+    },
+    "entryStatus": "RE_ENTRY",
+    "peakDate": "2018-12-27",
+    "entryRank": 169,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Have Yourself A Merry Little Christmas",
+    "trackUri": "spotify:track:1Qi2wh8fFgDV7tl4Sj3f2K",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02340f355a2a27e941a30dda56",
+    "artists": [
+     {
+      "name": "Sam Smith",
+      "spotifyUri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Capitol"
+     }
+    ],
+    "releaseDate": "2014-12-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 175,
+    "previousRank": 108,
+    "peakRank": 9,
+    "appearancesOnChart": 4,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "5897422",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-25",
+    "entryRank": 9,
+    "entryDate": "2021-11-25"
+   },
+   "trackMetadata": {
+    "trackName": "Can I Get It",
+    "trackUri": "spotify:track:6w8ZPYdnGajyfPddTWdthN",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c6b577e4c4a6d326354a89f7",
+    "artists": [
+     {
+      "name": "Adele",
+      "spotifyUri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Columbia"
+     }
+    ],
+    "releaseDate": "2021-11-19"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 176,
+    "previousRank": 160,
+    "peakRank": 108,
+    "appearancesOnChart": 62,
+    "consecutiveAppearancesOnChart": 50,
+    "rankingMetric": {
+     "value": "5892840",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-03-18",
+    "entryRank": 199,
+    "entryDate": "2017-01-26"
+   },
+   "trackMetadata": {
+    "trackName": "Take Me To Church",
+    "trackUri": "spotify:track:3dYD57lRAUcMHufyqn9GcI",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027a9bf5f82e32d33d4503fe7b",
+    "artists": [
+     {
+      "name": "Hozier",
+      "spotifyUri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Universal-Island Records Ltd."
+     }
+    ],
+    "releaseDate": "2014-07-20"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 177,
+    "previousRank": -1,
+    "peakRank": 177,
+    "appearancesOnChart": 1,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "5892768",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NEW_ENTRY",
+    "peakDate": "2021-12-16",
+    "entryRank": 177,
+    "entryDate": "2021-12-16"
+   },
+   "trackMetadata": {
+    "trackName": "Desesperados",
+    "trackUri": "spotify:track:6mmPpaltUZK7xjNlBPQQ0p",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d9525f27b0a9e25b1fa21230",
+    "artists": [
+     {
+      "name": "Rauw Alejandro",
+      "spotifyUri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+     },
+     {
+      "name": "Chencho Corleone",
+      "spotifyUri": "spotify:artist:37230BxxYs9ksS7OkZw3IU"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Sony Music Latin/Duars Entertainment"
+     }
+    ],
+    "releaseDate": "2021-12-10"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 178,
+    "previousRank": 144,
+    "peakRank": 15,
+    "appearancesOnChart": 43,
+    "consecutiveAppearancesOnChart": 43,
+    "rankingMetric": {
+     "value": "5883156",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-05-13",
+    "entryRank": 98,
+    "entryDate": "2021-02-25"
+   },
+   "trackMetadata": {
+    "trackName": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+    "trackUri": "spotify:track:4cG7HUWYHBV6R6tHn1gxrl",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02815cb538fd7821595b2bc8c5",
+    "artists": [
+     {
+      "name": "Riton",
+      "spotifyUri": "spotify:artist:7i9j813KFoSBMldGqlh2Z1"
+     },
+     {
+      "name": "Nightcrawlers",
+      "spotifyUri": "spotify:artist:1gALaWbNDnwS2ECV09sn2A"
+     },
+     {
+      "name": "Mufasa & Hypeman",
+      "spotifyUri": "spotify:artist:4L2dV3zY7RmkeiNO035Fi0"
+     },
+     {
+      "name": "Dopamine",
+      "spotifyUri": "spotify:artist:3Edve4VIATi0OZngclQlkN"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Ministry of Sound Recordings"
+     }
+    ],
+    "releaseDate": "2021-01-15"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 179,
+    "previousRank": 159,
+    "peakRank": 138,
+    "appearancesOnChart": 4,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "5880212",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-25",
+    "entryRank": 138,
+    "entryDate": "2021-11-25"
+   },
+   "trackMetadata": {
+    "trackName": "Presepada",
+    "trackUri": "spotify:track:3YvE7uo4ffseBoJPh8IhHp",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fac33ccdd1fdd1821a5a0aa1",
+    "artists": [
+     {
+      "name": "Marília Mendonça",
+      "spotifyUri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+     },
+     {
+      "name": "Maiara & Maraisa",
+      "spotifyUri": "spotify:artist:59jlthNnbmim5l9tmNA7se"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Som Livre"
+     }
+    ],
+    "releaseDate": "2021-10-14"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 180,
+    "previousRank": 176,
+    "peakRank": 92,
+    "appearancesOnChart": 10,
+    "consecutiveAppearancesOnChart": 10,
+    "rankingMetric": {
+     "value": "5878057",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-28",
+    "entryRank": 180,
+    "entryDate": "2021-10-14"
+   },
+   "trackMetadata": {
+    "trackName": "Acapulco",
+    "trackUri": "spotify:track:3eJH2nAjvNXdmPfBkALiPZ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028544aa5ba43894b7103ec757",
+    "artists": [
+     {
+      "name": "Jason Derulo",
+      "spotifyUri": "spotify:artist:07YZf4WDAMNwqr4jfgOZ8y"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records"
+     }
+    ],
+    "releaseDate": "2021-09-03"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 181,
+    "previousRank": 181,
+    "peakRank": 109,
+    "appearancesOnChart": 50,
+    "consecutiveAppearancesOnChart": 50,
+    "rankingMetric": {
+     "value": "5872238",
+     "type": "STREAMS"
+    },
+    "entryStatus": "NO_CHANGE",
+    "peakDate": "2021-09-30",
+    "entryRank": 180,
+    "entryDate": "2021-01-07"
+   },
+   "trackMetadata": {
+    "trackName": "Smells Like Teen Spirit",
+    "trackUri": "spotify:track:0gucTLf7trAf37Ua1uAyAu",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6",
+    "artists": [
+     {
+      "name": "Nirvana",
+      "spotifyUri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Geffen"
+     }
+    ],
+    "releaseDate": "1991-09-26"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 182,
+    "previousRank": -1,
+    "peakRank": 72,
+    "appearancesOnChart": 7,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "5819594",
+     "type": "STREAMS"
+    },
+    "entryStatus": "RE_ENTRY",
+    "peakDate": "2019-12-26",
+    "entryRank": 159,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+    "trackUri": "spotify:track:6s2wpWPFPAgKg2LXxi1Oee",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026a68798b2ac41fde44823eb5",
+    "artists": [
+     {
+      "name": "Bruce Springsteen",
+      "spotifyUri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+     }
+    ],
+    "labels": [
+     {
+      "name": "NITRON concepts"
+     }
+    ]
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 183,
+    "previousRank": -1,
+    "peakRank": 52,
+    "appearancesOnChart": 10,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "5819176",
+     "type": "STREAMS"
+    },
+    "entryStatus": "RE_ENTRY",
+    "peakDate": "2020-12-24",
+    "entryRank": 154,
+    "entryDate": "2017-12-28"
+   },
+   "trackMetadata": {
+    "trackName": "Santa Baby",
+    "trackUri": "spotify:track:2SBr3MK1sdMs8IxdRcN6qz",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022bbcf33a95421f7580aa47b6",
+    "artists": [
+     {
+      "name": "Kylie Minogue",
+      "spotifyUri": "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Parlophone UK"
+     }
+    ],
+    "releaseDate": "2015-11-13"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 184,
+    "previousRank": -1,
+    "peakRank": 80,
+    "appearancesOnChart": 20,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "5814983",
+     "type": "STREAMS"
+    },
+    "entryStatus": "RE_ENTRY",
+    "peakDate": "2017-02-02",
+    "entryRank": 142,
+    "entryDate": "2017-01-05"
+   },
+   "trackMetadata": {
+    "trackName": "No Lie",
+    "trackUri": "spotify:track:48QmG1dfvMuYLxMPt7KSRA",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022d564195ed3dd7b70d64862c",
+    "artists": [
+     {
+      "name": "Sean Paul",
+      "spotifyUri": "spotify:artist:3Isy6kedDrgPYoTS1dazA9"
+     },
+     {
+      "name": "Dua Lipa",
+      "spotifyUri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Universal-Island Records Ltd."
+     }
+    ],
+    "releaseDate": "2018-06-29"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 185,
+    "previousRank": -1,
+    "peakRank": 98,
+    "appearancesOnChart": 8,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "5792144",
+     "type": "STREAMS"
+    },
+    "entryStatus": "RE_ENTRY",
+    "peakDate": "2017-12-28",
+    "entryRank": 162,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Santa Baby (with Henri René & His Orchestra)",
+    "trackUri": "spotify:track:1foCxQtxBweJtZmdxhEHVO",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cfbcba7cc35a40e08e5aff67",
+    "artists": [
+     {
+      "name": "Eartha Kitt",
+      "spotifyUri": "spotify:artist:1AwO9pWEBSBoWdEZu28XDC"
+     },
+     {
+      "name": "Henri René and His Orchestra",
+      "spotifyUri": "spotify:artist:0oK8UXKZbQezeRhE0KeBAV"
+     }
+    ],
+    "labels": [
+     {
+      "name": "RCA Bluebird"
+     }
+    ]
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 186,
+    "previousRank": 169,
+    "peakRank": 11,
+    "appearancesOnChart": 169,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "5770618",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2018-11-22",
+    "entryRank": 183,
+    "entryDate": "2017-01-05"
+   },
+   "trackMetadata": {
+    "trackName": "Bohemian Rhapsody - Remastered 2011",
+    "trackUri": "spotify:track:4u7EnebtmKWzUH433cf5Qv",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e319baafd16e84f0408af2a0",
+    "artists": [
+     {
+      "name": "Queen",
+      "spotifyUri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+     }
+    ],
+    "labels": [
+     {
+      "name": "EMI"
+     }
+    ],
+    "releaseDate": "1975-11-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 187,
+    "previousRank": 191,
+    "peakRank": 44,
+    "appearancesOnChart": 40,
+    "consecutiveAppearancesOnChart": 38,
+    "rankingMetric": {
+     "value": "5760456",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_UP",
+    "peakDate": "2018-04-26",
+    "entryRank": 44,
+    "entryDate": "2018-04-26"
+   },
+   "trackMetadata": {
+    "trackName": "The Nights",
+    "trackUri": "spotify:track:0ct6r3EGTcMLPtrXHDvVjc",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020ae4f4d42e4a09f3a29f64ad",
+    "artists": [
+     {
+      "name": "Avicii",
+      "spotifyUri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Universal Music AB"
+     }
+    ],
+    "releaseDate": "2014-01-01"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 188,
+    "previousRank": 183,
+    "peakRank": 42,
+    "appearancesOnChart": 18,
+    "consecutiveAppearancesOnChart": 18,
+    "rankingMetric": {
+     "value": "5743639",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-14",
+    "entryRank": 174,
+    "entryDate": "2021-08-19"
+   },
+   "trackMetadata": {
+    "trackName": "OUT OUT (feat. Charli XCX & Saweetie)",
+    "trackUri": "spotify:track:6Dy1jexKYriXAVG6evyUTJ",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020abb7463b44d1be6243642f4",
+    "artists": [
+     {
+      "name": "Joel Corry",
+      "spotifyUri": "spotify:artist:6DgP9otnZw5z6daOntINxp"
+     },
+     {
+      "name": "Jax Jones",
+      "spotifyUri": "spotify:artist:4Q6nIcaBED8qUel8bBx6Cr"
+     },
+     {
+      "name": "Charli XCX",
+      "spotifyUri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+     },
+     {
+      "name": "Saweetie",
+      "spotifyUri": "spotify:artist:6cK3NBO6uP7hh0oyuVELFl"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records UK"
+     }
+    ],
+    "releaseDate": "2021-08-13"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 189,
+    "previousRank": 172,
+    "peakRank": 23,
+    "appearancesOnChart": 49,
+    "consecutiveAppearancesOnChart": 45,
+    "rankingMetric": {
+     "value": "5728277",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-04-08",
+    "entryRank": 35,
+    "entryDate": "2019-05-23"
+   },
+   "trackMetadata": {
+    "trackName": "Arcade",
+    "trackUri": "spotify:track:1J14CdDAvBTE1AJYUOwl6C",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0259ce61a220822995a3ccd27f",
+    "artists": [
+     {
+      "name": "Duncan Laurence",
+      "spotifyUri": "spotify:artist:3klZnJvYGIbWritVwQD434"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Universal Music, a division of Universal International Music BV"
+     }
+    ],
+    "releaseDate": "2020-11-12"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 190,
+    "previousRank": 163,
+    "peakRank": 70,
+    "appearancesOnChart": 14,
+    "consecutiveAppearancesOnChart": 14,
+    "rankingMetric": {
+     "value": "5725280",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-21",
+    "entryRank": 128,
+    "entryDate": "2021-09-16"
+   },
+   "trackMetadata": {
+    "trackName": "Happier Than Ever - Edit",
+    "trackUri": "spotify:track:32BeYxKPrig1LefHsC0Xuo",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0231aa3ebe23f59778bff800c9",
+    "artists": [
+     {
+      "name": "Billie Eilish",
+      "spotifyUri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Darkroom/Interscope Records"
+     }
+    ],
+    "releaseDate": "2021-07-28"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 191,
+    "previousRank": 171,
+    "peakRank": 17,
+    "appearancesOnChart": 27,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "5710345",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-05-27",
+    "entryRank": 17,
+    "entryDate": "2021-05-27"
+   },
+   "trackMetadata": {
+    "trackName": "jealousy, jealousy",
+    "trackUri": "spotify:track:0MMyJUC3WNnFS1lit5pTjk",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+    "artists": [
+     {
+      "name": "Olivia Rodrigo",
+      "spotifyUri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Olivia Rodrigo PS"
+     }
+    ],
+    "releaseDate": "2021-05-21"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 192,
+    "previousRank": 168,
+    "peakRank": 10,
+    "appearancesOnChart": 33,
+    "consecutiveAppearancesOnChart": 3,
+    "rankingMetric": {
+     "value": "5701078",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-05-13",
+    "entryRank": 136,
+    "entryDate": "2021-04-22"
+   },
+   "trackMetadata": {
+    "trackName": "Pareja Del Año",
+    "trackUri": "spotify:track:2rCbl9naJYhaxjLsfx88uM",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ee3c93eb863c564418d8f921",
+    "artists": [
+     {
+      "name": "Sebastian Yatra",
+      "spotifyUri": "spotify:artist:07YUOmWljBTXwIseAUd9TW"
+     },
+     {
+      "name": "Myke Towers",
+      "spotifyUri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+     }
+    ],
+    "labels": [
+     {
+      "name": "UMLE - Latino"
+     }
+    ],
+    "releaseDate": "2021-04-16"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 193,
+    "previousRank": -1,
+    "peakRank": 76,
+    "appearancesOnChart": 16,
+    "consecutiveAppearancesOnChart": 1,
+    "rankingMetric": {
+     "value": "5692028",
+     "type": "STREAMS"
+    },
+    "entryStatus": "RE_ENTRY",
+    "peakDate": "2021-10-14",
+    "entryRank": 161,
+    "entryDate": "2021-08-26"
+   },
+   "trackMetadata": {
+    "trackName": "edamame (feat. Rich Brian)",
+    "trackUri": "spotify:track:5rW7qTn83sCKtqBoneJs63",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028c25aa58d7e0894df7436348",
+    "artists": [
+     {
+      "name": "bbno$",
+      "spotifyUri": "spotify:artist:41X1TR6hrK8Q2ZCpp2EqCz"
+     },
+     {
+      "name": "Rich Brian",
+      "spotifyUri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
+     }
+    ],
+    "labels": [
+     {
+      "name": "bbno$"
+     }
+    ],
+    "releaseDate": "2021-10-08"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 194,
+    "previousRank": 188,
+    "peakRank": 123,
+    "appearancesOnChart": 29,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "5687027",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-10-07",
+    "entryRank": 189,
+    "entryDate": "2021-04-22"
+   },
+   "trackMetadata": {
+    "trackName": "The Real Slim Shady",
+    "trackUri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42",
+    "artists": [
+     {
+      "name": "Eminem",
+      "spotifyUri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Interscope"
+     }
+    ],
+    "releaseDate": "2000-05-23"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 195,
+    "previousRank": 173,
+    "peakRank": 3,
+    "appearancesOnChart": 168,
+    "consecutiveAppearancesOnChart": 168,
+    "rankingMetric": {
+     "value": "5681238",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2019-02-28",
+    "entryRank": 69,
+    "entryDate": "2018-10-04"
+   },
+   "trackMetadata": {
+    "trackName": "Shallow",
+    "trackUri": "spotify:track:2VxeLyX666F8uXCJ0dZF8B",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e2d156fdc691f57900134342",
+    "artists": [
+     {
+      "name": "Lady Gaga",
+      "spotifyUri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+     },
+     {
+      "name": "Bradley Cooper",
+      "spotifyUri": "spotify:artist:4VIvfOurcf0vuLRxLkGnIG"
+     }
+    ],
+    "labels": [
+     {
+      "name": "A Star is Born OST"
+     }
+    ],
+    "releaseDate": "2018-10-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 196,
+    "previousRank": 182,
+    "peakRank": 125,
+    "appearancesOnChart": 4,
+    "consecutiveAppearancesOnChart": 4,
+    "rankingMetric": {
+     "value": "5675607",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-12-02",
+    "entryRank": 129,
+    "entryDate": "2021-11-25"
+   },
+   "trackMetadata": {
+    "trackName": "Súbelo",
+    "trackUri": "spotify:track:3xv8JksRyqHa1lwkM9xvJf",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021fbb8aa211472dc81f4e4ebc",
+    "artists": [
+     {
+      "name": "Anuel AA",
+      "spotifyUri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
+     },
+     {
+      "name": "Myke Towers",
+      "spotifyUri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+     },
+     {
+      "name": "Jhay Cortez",
+      "spotifyUri": "spotify:artist:0EFisYRi20PTADoJrifHrz"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Real Hasta La Muerte, LLC"
+     }
+    ],
+    "releaseDate": "2021-11-26"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 197,
+    "previousRank": 164,
+    "peakRank": 7,
+    "appearancesOnChart": 19,
+    "consecutiveAppearancesOnChart": 19,
+    "rankingMetric": {
+     "value": "5668091",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-08-12",
+    "entryRank": 7,
+    "entryDate": "2021-08-12"
+   },
+   "trackMetadata": {
+    "trackName": "Take My Breath - Single Version",
+    "trackUri": "spotify:track:6M3PsepEj5gyJoIi7Xvr7u",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e6c40bd47002f3faffb31ebe",
+    "artists": [
+     {
+      "name": "The Weeknd",
+      "spotifyUri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "labels": [
+     {
+      "name": "XO / Republic Records"
+     }
+    ],
+    "releaseDate": "2021-08-05"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 198,
+    "previousRank": 165,
+    "peakRank": 46,
+    "appearancesOnChart": 13,
+    "consecutiveAppearancesOnChart": 2,
+    "rankingMetric": {
+     "value": "5663683",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2018-12-27",
+    "entryRank": 166,
+    "entryDate": "2016-12-29"
+   },
+   "trackMetadata": {
+    "trackName": "Santa Claus Is Coming to Town",
+    "trackUri": "spotify:track:5Ber68jZ7ytegr2UISEdb7",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022ead7786631d8dd3b59be4f0",
+    "artists": [
+     {
+      "name": "Michael Bublé",
+      "spotifyUri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Reprise"
+     }
+    ],
+    "releaseDate": "2011-10-14"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 199,
+    "previousRank": 129,
+    "peakRank": 14,
+    "appearancesOnChart": 7,
+    "consecutiveAppearancesOnChart": 7,
+    "rankingMetric": {
+     "value": "5663548",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-04",
+    "entryRank": 14,
+    "entryDate": "2021-11-04"
+   },
+   "trackMetadata": {
+    "trackName": "Overpass Graffiti",
+    "trackUri": "spotify:track:4btFHqumCO31GksfuBLLv3",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ef24c3fdbf856340d55cfeb2",
+    "artists": [
+     {
+      "name": "Ed Sheeran",
+      "spotifyUri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Atlantic Records UK"
+     }
+    ],
+    "releaseDate": "2021-10-29"
+   }
+  },
+  {
+   "chartEntryData": {
+    "currentRank": 200,
+    "previousRank": 189,
+    "peakRank": 132,
+    "appearancesOnChart": 5,
+    "consecutiveAppearancesOnChart": 5,
+    "rankingMetric": {
+     "value": "5663073",
+     "type": "STREAMS"
+    },
+    "entryStatus": "MOVED_DOWN",
+    "peakDate": "2021-11-18",
+    "entryRank": 132,
+    "entryDate": "2021-11-18"
+   },
+   "trackMetadata": {
+    "trackName": "Ameaça",
+    "trackUri": "spotify:track:4fSHADbZbhpZCT9oJpxwbP",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020df3ddb56bc2b331df04e9ba",
+    "artists": [
+     {
+      "name": "Paulo Pires",
+      "spotifyUri": "spotify:artist:3whgFbrRxsOmYVrq3t4hCY"
+     },
+     {
+      "name": "Mc Danny",
+      "spotifyUri": "spotify:artist:3PZTvUS5fUUhV3EKAjqdZk"
+     },
+     {
+      "name": "Marcynho Sensação",
+      "spotifyUri": "spotify:artist:4dnPDc045bVjibyATxVUOs"
+     }
+    ],
+    "labels": [
+     {
+      "name": "Paulo Pires"
+     }
+    ],
+    "releaseDate": "2021-10-14"
+   }
+  }
+ ],
+ "highlights": [
+  {
+   "type": "LONGEST_STREAK",
+   "text": "“Believer” by Imagine Dragons has been on Top Songs Global the longest, at 254 weeks straight.",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+   "backgroundColor": "#184060",
+   "chartLabel": "Top Songs Global · December 10 - 16, 2021",
+   "chartUri": "/charts/view/regional-global-weekly/2021-12-16"
+  },
+  {
+   "type": "GREATEST_GAINER",
+   "text": "“Already Dead” by Juice WRLD is the biggest gainer on Top Songs Global, up 124 spots at #66.",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2737459992b444de38842b9bee7",
+   "backgroundColor": "#707880",
+   "chartLabel": "Top Songs Global · December 10 - 16, 2021",
+   "chartUri": "/charts/view/regional-global-weekly/2021-12-16"
+  },
+  {
+   "type": "ARTIST_WITH_MOST_ENTRIES",
+   "text": "Juice WRLD has the most spots on Top Songs Global. “Girl Of My Dreams (with SUGA of BTS)” is the highest at #28.",
+   "displayImageUri": "https://i.scdn.co/image/ab6761610000e5eb1908e1a8b79abf71d5598944",
+   "backgroundColor": "#773795",
+   "chartLabel": "Top Songs Global · December 10 - 16, 2021",
+   "chartUri": "/charts/view/regional-global-weekly/2021-12-16"
+  },
+  {
+   "type": "HIGHEST_NEW_ENTRY",
+   "text": "“Girl Of My Dreams (with SUGA of BTS)” by Juice WRLD, SUGA, and BTS is the highest new entry on Top Songs Global at #28.",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d0000b2737459992b444de38842b9bee7",
+   "backgroundColor": "#707880",
+   "chartLabel": "Top Songs Global · December 10 - 16, 2021",
+   "chartUri": "/charts/view/regional-global-weekly/2021-12-16"
+  }
+ ],
+ "chartNavigationFilters": [
+  {
+   "dimension": "Chart Type",
+   "chartNavigationFilterEntries": [
+    {
+     "navigationFilterEntryText": "Top Albums",
+     "alias": "ALBUM_GLOBAL_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Top Songs",
+     "alias": "REGIONAL_GLOBAL_WEEKLY",
+     "date": "2021-12-16",
+     "selected": true
+    },
+    {
+     "navigationFilterEntryText": "Top Viral Songs",
+     "alias": "VIRAL_GLOBAL_DAILY",
+     "date": "2021-12-16"
+    }
+   ]
+  },
+  {
+   "dimension": "Region",
+   "chartNavigationFilterEntries": [
+    {
+     "navigationFilterEntryText": "Global",
+     "alias": "REGIONAL_GLOBAL_WEEKLY",
+     "date": "2021-12-16",
+     "selected": true
+    },
+    {
+     "navigationFilterEntryText": "Argentina",
+     "alias": "REGIONAL_AR_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Australia",
+     "alias": "REGIONAL_AU_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Austria",
+     "alias": "REGIONAL_AT_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Belarus",
+     "alias": "REGIONAL_BY_WEEKLY",
+     "date": "2022-02-17"
+    },
+    {
+     "navigationFilterEntryText": "Belgium",
+     "alias": "REGIONAL_BE_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Bolivia",
+     "alias": "REGIONAL_BO_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Brazil",
+     "alias": "REGIONAL_BR_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Bulgaria",
+     "alias": "REGIONAL_BG_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Canada",
+     "alias": "REGIONAL_CA_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Chile",
+     "alias": "REGIONAL_CL_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Colombia",
+     "alias": "REGIONAL_CO_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Costa Rica",
+     "alias": "REGIONAL_CR_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Cyprus",
+     "alias": "REGIONAL_CY_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Czech Republic",
+     "alias": "REGIONAL_CZ_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Denmark",
+     "alias": "REGIONAL_DK_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Dominican Republic",
+     "alias": "REGIONAL_DO_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Ecuador",
+     "alias": "REGIONAL_EC_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Egypt",
+     "alias": "REGIONAL_EG_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "El Salvador",
+     "alias": "REGIONAL_SV_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Estonia",
+     "alias": "REGIONAL_EE_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Finland",
+     "alias": "REGIONAL_FI_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "France",
+     "alias": "REGIONAL_FR_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Germany",
+     "alias": "REGIONAL_DE_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Greece",
+     "alias": "REGIONAL_GR_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Guatemala",
+     "alias": "REGIONAL_GT_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Honduras",
+     "alias": "REGIONAL_HN_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Hong Kong",
+     "alias": "REGIONAL_HK_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Hungary",
+     "alias": "REGIONAL_HU_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Iceland",
+     "alias": "REGIONAL_IS_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "India",
+     "alias": "REGIONAL_IN_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Indonesia",
+     "alias": "REGIONAL_ID_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Ireland",
+     "alias": "REGIONAL_IE_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Israel",
+     "alias": "REGIONAL_IL_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Italy",
+     "alias": "REGIONAL_IT_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Japan",
+     "alias": "REGIONAL_JP_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Kazakhstan",
+     "alias": "REGIONAL_KZ_WEEKLY",
+     "date": "2022-02-17"
+    },
+    {
+     "navigationFilterEntryText": "Latvia",
+     "alias": "REGIONAL_LV_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Lithuania",
+     "alias": "REGIONAL_LT_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Luxembourg",
+     "alias": "REGIONAL_LU_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Malaysia",
+     "alias": "REGIONAL_MY_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Mexico",
+     "alias": "REGIONAL_MX_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Morocco",
+     "alias": "REGIONAL_MA_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Netherlands",
+     "alias": "REGIONAL_NL_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "New Zealand",
+     "alias": "REGIONAL_NZ_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Nicaragua",
+     "alias": "REGIONAL_NI_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Nigeria",
+     "alias": "REGIONAL_NG_WEEKLY",
+     "date": "2022-02-17"
+    },
+    {
+     "navigationFilterEntryText": "Norway",
+     "alias": "REGIONAL_NO_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Pakistan",
+     "alias": "REGIONAL_PK_WEEKLY",
+     "date": "2022-05-12"
+    },
+    {
+     "navigationFilterEntryText": "Panama",
+     "alias": "REGIONAL_PA_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Paraguay",
+     "alias": "REGIONAL_PY_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Peru",
+     "alias": "REGIONAL_PE_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Philippines",
+     "alias": "REGIONAL_PH_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Poland",
+     "alias": "REGIONAL_PL_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Portugal",
+     "alias": "REGIONAL_PT_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Romania",
+     "alias": "REGIONAL_RO_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Saudi Arabia",
+     "alias": "REGIONAL_SA_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Singapore",
+     "alias": "REGIONAL_SG_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Slovakia",
+     "alias": "REGIONAL_SK_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "South Africa",
+     "alias": "REGIONAL_ZA_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "South Korea",
+     "alias": "REGIONAL_KR_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Spain",
+     "alias": "REGIONAL_ES_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Sweden",
+     "alias": "REGIONAL_SE_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Switzerland",
+     "alias": "REGIONAL_CH_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Taiwan",
+     "alias": "REGIONAL_TW_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Thailand",
+     "alias": "REGIONAL_TH_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Turkey",
+     "alias": "REGIONAL_TR_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "UAE",
+     "alias": "REGIONAL_AE_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Ukraine",
+     "alias": "REGIONAL_UA_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "United Kingdom",
+     "alias": "REGIONAL_GB_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Uruguay",
+     "alias": "REGIONAL_UY_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "USA",
+     "alias": "REGIONAL_US_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Venezuela",
+     "alias": "REGIONAL_VE_WEEKLY",
+     "date": "2022-03-24"
+    },
+    {
+     "navigationFilterEntryText": "Vietnam",
+     "alias": "REGIONAL_VN_WEEKLY",
+     "date": "2021-12-16"
+    }
+   ]
+  },
+  {
+   "dimension": "Recurrence",
+   "chartNavigationFilterEntries": [
+    {
+     "navigationFilterEntryText": "Weekly",
+     "alias": "REGIONAL_GLOBAL_WEEKLY",
+     "date": "2021-12-16",
+     "selected": true
+    },
+    {
+     "navigationFilterEntryText": "Daily",
+     "alias": "REGIONAL_GLOBAL_DAILY",
+     "date": "2021-12-16"
+    }
+   ]
+  },
+  {
+   "dimension": "Genre",
+   "chartNavigationFilterEntries": [
+    {
+     "navigationFilterEntryText": "Blues",
+     "alias": "GENRESONGS_BLUES_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Brazilian Funk and Hip Hop",
+     "alias": "GENRESONGS_FUNKCARIOCA_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Country",
+     "alias": "GENRESONGS_COUNTRY_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Dance and Electronic",
+     "alias": "GENRESONGS_DANCEELECTRONIC_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Folk",
+     "alias": "GENRESONGS_FOLK_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Hip Hop",
+     "alias": "GENRESONGS_HIPHOP_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Indie Pop",
+     "alias": "GENRESONGS_INDIEPOP_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Jazz",
+     "alias": "GENRESONGS_JAZZ_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "K Pop",
+     "alias": "GENRESONGS_KPOP_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Latin",
+     "alias": "GENRESONGS_LATIN_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Metal",
+     "alias": "GENRESONGS_METAL_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Pop",
+     "alias": "GENRESONGS_POP_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "R&B",
+     "alias": "GENRESONGS_RNB_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Regional Mexican",
+     "alias": "GENRESONGS_REGIONALMEXICAN_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Rock",
+     "alias": "GENRESONGS_ROCK_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Sertanejo and Forró",
+     "alias": "GENRESONGS_SERTANEJO_WEEKLY",
+     "date": "2021-12-16"
+    },
+    {
+     "navigationFilterEntryText": "Urbano",
+     "alias": "GENRESONGS_URBANO_WEEKLY",
+     "date": "2021-12-16"
+    }
+   ]
+  }
+ ]
+}
