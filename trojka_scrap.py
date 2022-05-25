@@ -1,5 +1,7 @@
 import csv
 import json
+import time
+
 import requests
 from bs4 import BeautifulSoup
 import spotipy
@@ -7,18 +9,24 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 api_url = "https://lp3.polskieradio.pl/List/GetListResults?listId="
 
-
+cid = 'b656729f01d7445fa9c83a55273c5c64'
+secret = '1b5f5cd62c794904806001e79f68977f'
 
 client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-with open('lp3-data.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(["week timestamp", "track name", "arist name", "last position", "weeks on list", "rank", "genres"])
+#with open('lp3-data.csv', 'w', newline='') as file:
+#    writer = csv.writer(file)
+#    writer.writerow(["week timestamp", "track name", "arist name", "last position", "weeks on list", "rank", "genres"])
 
-with open('lp3-data.csv', 'a', newline='', encoding="utf-8") as file:
+#full - 1-5
+with open('lp3-data10.csv', 'w', newline='', encoding="utf-8") as file:
     writer = csv.writer(file)
-    for i in range(1, 2710):#2710
+    for i in range(1600, 1800):#2710
+        if i % 30 == 0:
+            print("sleeping... i = ", i)
+            time.sleep(5)
+
         print(f'{api_url}{i}')
         with requests.get(f'{api_url}{i}') as resp:
             if resp.status_code == 204:
@@ -37,7 +45,6 @@ with open('lp3-data.csv', 'a', newline='', encoding="utf-8") as file:
                 else:
                     lastPosition = result.get('lastPosition')
 
-                print(result.get('weeksOnList'))
                 if result.get('weeksOnList') == "":
                     weeksOnList = "0"
                 else:
