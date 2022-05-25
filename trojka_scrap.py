@@ -9,8 +9,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 api_url = "https://lp3.polskieradio.pl/List/GetListResults?listId="
 
-cid = 'b656729f01d7445fa9c83a55273c5c64'
-secret = '1b5f5cd62c794904806001e79f68977f'
+cid = '4bbda1ee53fd4cff9210c87f3d5fc151'
+secret = '0057fa7877034586a306f1c0ccb16815'
 
 client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
@@ -20,9 +20,9 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 #    writer.writerow(["week timestamp", "track name", "arist name", "last position", "weeks on list", "rank", "genres"])
 
 #full - 1-5
-with open('lp3-data10.csv', 'w', newline='', encoding="utf-8") as file:
+with open('lp3-data14.csv', 'w', newline='', encoding="utf-8") as file:
     writer = csv.writer(file)
-    for i in range(1600, 1800):#2710
+    for i in range(2400, 2710):#2710
         if i % 30 == 0:
             print("sleeping... i = ", i)
             time.sleep(5)
