@@ -2,9 +2,11 @@
 Analiza gatunków muzycznych w odstępach czasowych na podstawie listy radia nr 3
 """
 
+from dash import Dash, dcc, html, Input, Output
 import pandas as pd
 import plotly.express as px
 
+app = Dash(__name__)
 
 lp3 = pd.read_csv('lp3-full.csv')
 lp3['week timestamp'] = pd.to_datetime(lp3['week timestamp'])
@@ -30,4 +32,10 @@ df = pd.DataFrame(data)
 
 fig = px.line(df, x='Year', y='Pop', color='Name', title="Popularność gatunków muzycznych na przestrzeni lat w Polsce")
 fig.update_layout(xaxis_title='Rok', yaxis_title='Popularność (ilość wystąpień na liście radia nr 3 w danym roku)')
-fig.show()
+
+app.layout = html.Div([
+    dcc.Graph(id="graph", figure=fig)
+])
+
+if __name__ == '__main__':
+    app.run_server()
