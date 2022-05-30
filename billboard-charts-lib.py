@@ -1,3 +1,6 @@
+"""
+Skrypt ściąga dane z billboard.com i zapisuje je do billboard-data.csv
+"""
 import datetime
 import csv
 import billboard

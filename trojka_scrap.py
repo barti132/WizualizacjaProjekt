@@ -1,3 +1,7 @@
+"""
+Skrypt ściągający dane z lp3 i z spotify, zapisuje dane w lp3-data#.csv
+Problemem jest ograniczenie z strony API Spotify
+"""
 import csv
 import json
 import time
@@ -17,9 +21,8 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 #with open('lp3-data.csv', 'w', newline='') as file:
 #    writer = csv.writer(file)
-#    writer.writerow(["week timestamp", "track name", "arist name", "last position", "weeks on list", "rank", "genres"])
+#    writer.writerow(["week timestamp", "track name", "artist name", "last position", "weeks on list", "rank", "genres"])
 
-#full - 1-5
 with open('lp3-data14.csv', 'w', newline='', encoding="utf-8") as file:
     writer = csv.writer(file)
     for i in range(2400, 2710):#2710
