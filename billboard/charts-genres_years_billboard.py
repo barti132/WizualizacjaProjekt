@@ -7,22 +7,22 @@ import plotly.express as px
 from dash import Dash, dcc, html, Input, Output
 
 app = Dash(__name__)
-
-billboard = pd.read_csv('../billboard-full-t.csv', error_bad_lines=False)
-billboard['week_timestamp'] = pd.to_datetime(billboard['week_timestamp'])
+"""
+billboard = pd.read_csv('billboard/billboard-data.csv')
+billboard['week timestamp'] = pd.to_datetime(billboard['week timestamp'])
 billboard['genres'] = billboard['genres'].apply(eval)
 
-genres = ["rap", "pop", "rock", "soul", "folk", "jazz", "blues", "metal", "punk", "polish"]
+genres = ["rap", "pop", "rock", "soul", "folk", "r&b", "blues", "metal", "punk", "country"]
 
 data = []
 
 #można sprobować zapisać do csv, żeby było szybciej
 for y in range(1982, 2020):
     print(y)
-    genres_popularity = {"rap": 0, "pop": 0, "rock": 0, "soul": 0, "folk": 0, "jazz": 0, "blues": 0, "metal": 0,
-                         "punk": 0, "polish": 0}
+    genres_popularity = {"rap": 0, "pop": 0, "rock": 0, "soul": 0, "folk": 0, "r&b": 0, "blues": 0, "metal": 0,
+                         "punk": 0, "country": 0}
     for index, row in billboard.iterrows():
-        if row['week_timestamp'].year == y:
+        if row['week timestamp'].year == y:
             for genre in genres:
                 if any(genre in s for s in row['genres']):
                     genres_popularity[genre] += 1
@@ -32,8 +32,10 @@ for y in range(1982, 2020):
 
 df = pd.DataFrame(data)
 df.to_csv('genres-popularity-billboard.csv')  # raz policzone, można wykorzystać
+"""
+df = pd.read_csv('genres-popularity-billboard.csv')
 
-fig = px.line(df, x='Year', y='Pop', color='Name', title="Popularność gatunków muzycznych na przestrzeni lat w Polsce")
+fig = px.line(df, x='Year', y='Pop', color='Name', title="Popularność gatunków muzycznych na przestrzeni lat w USA")
 fig.update_layout(xaxis_title='Rok', yaxis_title='Popularność (ilość wystąpień na liście)')
 
 app.layout = html.Div(children=[
